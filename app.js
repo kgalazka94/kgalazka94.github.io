@@ -153,12 +153,11 @@ progress[q.id].lastCorrect = false;
 
 saveProgress();
 buildSidebar();
-showLearningFeedback(q, selectedIndex);
+showLearningFeedback(q);
 }
 
-function showLearningFeedback(q, selectedIndex=null) {
+function showLearningFeedback(q) {
 let feedback = document.getElementById("feedback");
-
 let isCorrect = progress[q.id].lastCorrect;
 
 if (isCorrect) {
@@ -235,10 +234,63 @@ progress[q.id].lastCorrect = false;
 saveProgress();
 
 let percent = Math.round((correct/currentSet.length)*100);
-
 alert("Wynik: "+percent+"%");
-
 location.reload();
+}
+
+// ================= STATYSTYKI =================
+
+function showStats() {
+
+clearInterval(timer);
+
+document.getElementById("menu").classList.add("hidden");
+document.getElementById("examLayout").classList.remove("hidden");
+
+let total = QUESTIONS.length;
+let mastered = 0;
+let weak = 0;
+let untouched = 0;
+
+QUESTIONS.forEach(q => {
+
+if(!progress[q.id]) {
+untouched++;
+return;
+}
+
+let totalAnswers = progress[q.id].correct + progress[q.id].wrong;
+
+if(totalAnswers === 0) {
+untouched++;
+return;
+}
+
+let percent = Math.round((progress[q.id].correct / totalAnswers) * 100);
+
+if(percent >= 80) mastered++;
+else if(percent < 50) weak++;
+
+});
+
+let overall = Math.round((mastered / total) * 100);
+
+document.getElementById("questionNav").innerHTML = "";
+
+document.getElementById("content").innerHTML = `
+<h2>📊 Statystyki</h2>
+
+<p><strong>Opanowane (≥80%):</strong> ${mastered}</p>
+<p><strong>Trudne (&lt;50%):</strong> ${weak}</p>
+<p><strong>Nieodpowiedziane:</strong> ${untouched}</p>
+
+<hr>
+
+<p><strong>Całkowity poziom opanowania:</strong> ${overall}%</p>
+
+<br>
+<button onclick="location.reload()">⬅ Powrót do menu</button>
+`;
 }
 
 // ================= PROGRESS BAR =================

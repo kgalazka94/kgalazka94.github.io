@@ -22,13 +22,15 @@ document.getElementById("menu").classList.remove("hidden");
 document.getElementById("userBox").innerText = "👤 " + nick;
 }
 
+// ================= ŁADOWANIE PYTAŃ =================
+
 async function loadQuestions() {
 const res = await fetch("questions.json");
 QUESTIONS = await res.json();
 
-// AUTOMATYCZNA NORMALIZACJA ODPOWIEDZI
+// 🔥 AUTOMATYCZNA NORMALIZACJA ODPOWIEDZI (1-based → 0-based)
 QUESTIONS.forEach(q => {
-if(q.answer > 0) {
+if (typeof q.answer === "number" && q.answer > 0) {
 q.answer = q.answer - 1;
 }
 });
@@ -280,7 +282,7 @@ else if(percent < 50) weak++;
 
 });
 
-let overall = Math.round((mastered / total) * 100);
+let overall = total > 0 ? Math.round((mastered / total) * 100) : 0;
 
 document.getElementById("questionNav").innerHTML = "";
 

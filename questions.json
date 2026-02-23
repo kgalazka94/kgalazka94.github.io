@@ -91,13 +91,21 @@
       "holowania spadochronu, lotni, spadolotni, wiroszybowca i itp.  ",
       "pływania jachtem motorowym o mocy silnika powyżej 100 kW   ",
       "holowania narciarza wodnego i innych nawodnych obiektów pływ ających, w tym ",
-      "żadna z powyższych odpowiedzi nie jest prawidłowa  ",
-      "statek uprawiający tylko żeglugę śródlądową   ",
+      "żadna z powyższych odpowiedzi nie jest prawidłowa  "
+    ],
+    "answer": 1
+  },
+  {
+    "id": 9,
+    "question": "\"Statek\" w pojęciu przepisów żeglugowych na śródlądowych drogach wodnych to:",
+    "image": null,
+    "options": [
+"statek uprawiający tylko żeglugę śródlądową   ",
       "każdy statek i prom z wyjątkiem urządzeń pływaj ących nie ",
       "statek żeglugi śródlądowej , w tym mały statek lub prom,  ",
       "statek wprowadzany w ruch tylko przez mechaniczne urządzenie napędowe  "
     ],
-    "answer": 1
+    "answer": 3
   },
   {
     "id": 10,
@@ -179,13 +187,21 @@
       "windsurfing   ",
       "jacht motorowy  ",
       "obydwa muszą ustąpić   ",
-      "nie można ustalić pierwszeństwa  ",
+      "nie można ustalić pierwszeństwa  "
+    ],
+    "answer": 1
+  },
+  {
+    "id": 17,
+    "question": " Widzisz w nocy na rzece światło zielone nad białym, widoczne ze wszystkich stron. Co to za statek:",
+    "image": null,
+    "options": [
       "na drodze śluza  ",
       "statek poławiający   ",
       "prom na uwięzi  ",
       "statek holujący  "
     ],
-    "answer": 1
+    "answer": 3
   },
   {
     "id": 18,
@@ -237,7 +253,7 @@
   },
   {
     "id": 22,
-    "question": "St atek wyprzedzany nadał sygnał wskazujący zgodę wyprzedzania z prawej burty.   \nJaki to sygnał:",
+    "question": "Statek wyprzedzany nadał sygnał wskazujący zgodę wyprzedzania z prawej burty.   \nJaki to sygnał:",
     "image": null,
     "options": [
       "−−•••   ",
@@ -279,13 +295,26 @@
       "mechanik   ",
       "armator  ",
       "kierownik  statku   ",
-      "najstarsza osoba na jachcie  ",
+      "najstarsza osoba na jachcie  "
+	  
       "•••−−−•••   ",
       "−−−•••−−−  ",
       "−−−•••   ",
       "•••− −•••  "
     ],
     "answer": 3
+  },
+  {
+    "id": 26,
+    "question": "Która grupa sygnałów to sygnał S.O.S.:",
+    "image": null,
+    "options": [
+      "•••−−−•••   ",
+      "−−−•••−−−  ",
+      "−−−•••   ",
+      "•••− −•••  "
+    ],
+    "answer": 1
   },
   {
     "id": 27,
@@ -379,13 +408,21 @@
       "uwaga  ",
       "człowiek za burtą   ",
       "nie mogę manewrować  ",
-      "zmieniam mój kurs w lewo  ",
+      "zmieniam mój kurs w lewo  "
+    ],
+    "answer": 3
+  },
+  {
+    "id": 35,
+    "question": " Co oznacza sygnał: jeden długi dźwięk (ok. 4 s)?",
+    "image": null,
+    "options": [
       "\"Uwaga\"  ",
       "\"Wzywam pomocy\"   ",
       "\"Niebezpieczeństwo zderzenia\"  ",
       "\"Człowiek za  burtą\"  "
     ],
-    "answer": 3
+    "answer": 1
   },
   {
     "id": 36,
@@ -479,13 +516,21 @@
       "15 m ",
       "20 m   ",
       "10 m  ",
-      "25 m  ",
+      "25 m  "
+	  ],
+    "answer": 2
+  },
+  {
+    "id": 44,
+    "question": "Kto jest odpowiedzialny za bezpieczeństwo statku i załogi?",
+    "image": null,
+    "options": [
       "kierownik statku  ",
       "osoba z najwyższym stopniem żeglarskim   ",
       "osoba sterująca jachtem  ",
       "osoba pełnoletnia znajdująca się na pokładzie  "
     ],
-    "answer": 2
+    "answer": 1
   },
   {
     "id": 45,
@@ -567,7 +612,15 @@
       "oba jachty zmieniają kurs w lewo i mijają się prawymi burtami   ",
       "oba jachty powinny zawrócić  ",
       "jacht motorowy który porusza się wolniej   ",
-      "oba jachty zmieniają kurs w prawo i mijają się lewymi burtami  ",
+      "oba jachty zmieniają kurs w prawo i mijają się lewymi burtami  "
+    ],
+    "answer": 4
+  },
+  {
+    "id": 52,
+    "question": "Jeżeli jacht żaglowy wyprzedza jacht motorowy, to z drogi powinien ustąpić:",
+    "image": null,
+    "options": [
       "jacht motorowy, ponieważ jest jachtem wyprzedzanym   ",
       "oba jachty powinny zmienić kurs w lewo  ",
       "oba jachty powinny zmienić kurs w prawo   ",
@@ -667,13 +720,21 @@
       "okucie przytrzymujące kotwicę na pokładzie  ",
       "okucie do mocowania silnika   ",
       "ubik acja na jachcie  ",
-      "żadna  odpowiedź nie jest prawidłowa  ",
+      "żadna  odpowiedź nie jest prawidłowa  "
+    ],
+    "answer": 4
+  },
+  {
+    "id": 61,
+    "question": "Echosonda to urządzenie służące do:",
+    "image": null,
+    "options": [
       "pomiaru ciśnienia   ",
       "pomiaru prędkości wiatru  ",
       "pomiaru głębokości   ",
       "pomiaru przebytej drogi  "
     ],
-    "answer": 4
+    "answer": 3
   },
   {
     "id": 62,
@@ -767,13 +828,21 @@
       "szpring dziobowy   ",
       "szpring rufowy  ",
       "cuma dziobowa   ",
-      "cuma rufowa  ",
+      "cuma rufowa  "
+    ],
+    "answer": 1
+  },
+  {
+    "id": 70,
+    "question": "Lina cumująca jacht biegnąca od rufy w kierunku dziobu to:",
+    "image": null,
+    "options": [
       "szpring dziobowy   ",
       "szpring rufowy  ",
       "cuma dziobowa   ",
       "cuma rufowa  "
     ],
-    "answer": 1
+    "answer": 2
   },
   {
     "id": 71,
@@ -868,7 +937,15 @@
       "na biegu wstecznym   ",
       "na biegu jałowym  ",
       "na 1/3 biegu do przodu   ",
-      "nie ma to znaczenia  ",
+      "nie ma to znaczenia  "
+    ],
+    "answer": 2
+  },
+  {
+    "id": 79,
+    "question": "Czy silnik dwusuwowy benzynowy posiada miskę olejową:",
+    "image": null,
+    "options": [
       "tak  ",
       "nie ",
       "zależy od  konstrukcji dwusuwów   ",
@@ -968,13 +1045,21 @@
       "urządzenie do wypompowywania wody z wc   ",
       "urządzenie do osuszania kok pitu ",
       "urządzenie do chłodzenia silnika jachtowego   ",
-      "urządzenie do usuwania wody z dna jachtu  ",
+      "urządzenie do usuwania wody z dna jachtu  "
+    ],
+    "answer": 4
+  },
+  {
+    "id": 88,
+    "question": "Podczas śluzowania nie wolno:",
+    "image": null,
+    "options": [
       "odpychać się od ściany śluzy za pomocą rąk lub nóg   ",
       "zacumować się na biegowo  ",
       "zacumować się do innego jachtu   ",
       "żadna odpowiedź nie jest prawidłowa  "
     ],
-    "answer": 4
+    "answer": 1
   },
   {
     "id": 89,
@@ -1284,7 +1369,15 @@
       "kotwiczenia i cumowania   ",
       "używania ciężkich kotwic  ",
       "kotwiczenia, wleczenia kotwicy, łańcucha, liny   ",
-      "żadna odpowiedź nie jest prawidłowa  ",
+      "żadna odpowiedź nie jest prawidłowa  "
+    ],
+    "answer": 3
+  },
+  {
+    "id": 115,
+    "question": "Znak przedstawiony obok oznacza zakaz:",
+    "image": "img/q115.png",
+    "options": [
       "cumowania do brzegu lub kotwiczenia   ",
       "cumowania dużych statków  ",
       "cumowania do brzegu   ",
@@ -1384,13 +1477,21 @@
       "nakaz prowadzenia nasłuchu na 12 kanale   ",
       "nakaz nieprzekraczania prędkości 12 km/h  ",
       "nakaz ograniczenia długości zestawów holowanych do 12 m   ",
-      "nakaz nieprzekraczania prędkości 12 węzłów  ",
+      "nakaz nieprzekraczania prędkości 12 węzłów  "
+    ],
+    "answer": 2
+  },
+  {
+    "id": 124,
+    "question": "Znak przedstawiony obok to (na śródlądowych drogach wodnych):",
+    "image": "img/q124.png",
+    "options": [
       "prawa granica szlaku żeglownego  ",
       "lewa granica szlaku żeglownego   ",
       "zakaz wpływania  ",
       "rozgałęzienie szlaków    "
     ],
-    "answer": 2
+    "answer": 1
   },
   {
     "id": 125,
@@ -1492,15 +1593,24 @@
     "id": 133,
     "question": "Wybierz przebieg szlaku wodnego (drogę jachtu) od punktu X do punktu Y,  \nuwzględniając położenie podanych kierunków geograficznych:",
     "image": "img/q133.png",
-    "options": [],
+    "options": [
+		"a", "b", "c", "d" 
+	],
     "answer": 2
   },
   {
     "id": 134,
-    "question": "Wybierz przebieg szlaku wodnego (drogę jachtu) od  punktu X do punktu Y,  \nuwzględniając położenie podanych kierunków geograficznych : \n \n \n \n \n \n \n \n \n  \n\n \n \n17 \n 135. Wybierz przebieg szlaku wodnego (drogę jachtu) od punktu X do punktu Y,  \nuwzględniając położenie podanych kierunków geograficznych:",
+    "question": "Wybierz przebieg szlaku wodnego (drogę jachtu) od  punktu X do punktu Y,  \nuwzględniając położenie podanych kierunków geograficznych :",
     "image": "img/q134.png",
-    "options": [],
+    "options": ["a", "b", "c", "d" ],
     "answer": 4
+  },
+  {
+    "id": 135,
+    "question": "Wybierz przebieg szlaku wodnego (drogę jachtu) od  punktu X do punktu Y,  \nuwzględniając położenie podanych kierunków geograficznych : ",
+    "image": "img/q135.png",
+    "options": ["a", "b", "c", "d" ],
+    "answer": 3
   },
   {
     "id": 136,
@@ -1558,13 +1668,21 @@
       "2°B ",
       "6°B  ",
       "10°B  ",
-      "12°B  ",
+      "12°B  "
+    ],
+    "answer": 2
+  },
+  {
+    "id": 141,
+    "question": "Chmura sygnalizująca silne wiatry z gwałtownymi szkwałami to:",
+    "image": null,
+    "options": [
       "cirrus  ",
       "altocumulus   ",
       "cumulonimbus  ",
       "nimbostratus  "
     ],
-    "answer": 2
+    "answer": 3
   },
   {
     "id": 142,
@@ -1766,13 +1884,21 @@
       "110 ",
       "998  ",
       "112 ",
-      "102 ",
+      "102 "
+    ],
+    "answer": 3
+  },
+  {
+    "id": 159,
+    "question": "Telefon ratunkowy WOPR to:",
+    "image": null,
+    "options": [
       "601 111 111  ",
       "601 100 100   ",
       "501 111 111  ",
       "501 100 100   "
     ],
-    "answer": 3
+    "answer": 2
   },
   {
     "id": 160,
@@ -1867,7 +1993,15 @@
       "zabezpieczysz sprzęt przed zdryfowaniem  ",
       "policzysz załogę i założysz pasy ratunkowe   ",
       "spróbujesz postawić jacht  ",
-      "natychmiast  popłyniesz z załogą do brzegu  ",
+      "natychmiast  popłyniesz z załogą do brzegu  "
+	  ],
+    "answer": 2
+  },
+  {
+    "id": 168,
+    "question": " W czasie sztormowania na jeziorze na jachcie kabinowym załoga powinna:",
+    "image": null,
+    "options": [
       "przebywać w kabinie z przygotowanymi do założenia kamizelkami  ",
       "przebywać w kokpicie z założonymi kamizelkami ratunkowymi   ",
       "przebywać w ka binie z założonymi kamizelkami ratunkowymi  ",
@@ -1967,7 +2101,15 @@
       "12 lat  ",
       "14 lat   ",
       "16 lat  ",
-      "18 lat  ",
+      "18 lat  "
+    ],
+    "answer": 2
+  },
+  {
+    "id": 177,
+    "question": "W ciągu dnia widzisz na drodze wodnej statek, który pokazuje na jednej burcie czerwoną kulę, a na drugiej zielone romby złączone wierzchołkami. Z której strony możesz przepłynąć:",
+    "image": null,
+    "options": [
       "od strony kuli  ",
       "od strony rombów   ",
       "z każdej strony  ",
@@ -2067,13 +2209,21 @@
       "liniał równoległy   ",
       "przenośnik nawigacyjny  ",
       "trójkąt na wigacyjny   ",
-      "namiernik   ",
+      "namiernik   "
+    ],
+    "answer": 4
+  },
+  {
+    "id": 186,
+    "question": "Log burtowy to urządzenie służące do:",
+    "image": null,
+    "options": [
       "elektrycznego pomiaru prędkości   ",
       "ręcznego pomiaru prędkości  ",
       "mechanicznego pomiaru prędkości   ",
       "do ręcznego pomiaru głębokości  "
     ],
-    "answer": 4
+    "answer": 2
   },
   {
     "id": 187,
@@ -2166,13 +2316,21 @@
     "options": [
       "205 0  b) 135 0 ",
       "112,5 0 ",
-      "117,5 0 ",
+      "117,5 0 "
+    ],
+    "answer": 3
+  },
+  {
+    "id": 195,
+    "question": "Widzisz w nocy statek niosący dodatkowo światło białe nad czerwonym. Jest to:",
+    "image": null,
+    "options": [
       "statek poławiający   ",
       "statek pilotowy  ",
       "statek na mieliźnie   ",
       "holownik    "
     ],
-    "answer": 3
+    "answer": 2
   },
   {
     "id": 196,
@@ -2263,16 +2421,24 @@
     "question": "Dziobowa część kadłuba to:",
     "image": null,
     "options": [
-      "kokpit   ",
-      "forpik ",
-      "achterpik   ",
-      "bakista    ",
       "aby wiatr wiał od dziobu   ",
       "aby wiatr wiał od rufy  ",
       "stań w dryfie   ",
       "kurs nie ma znaczenia  "
     ],
     "answer": 2
+  },
+  {
+    "id": 204,
+    "question": "Jeśli pali się na rufie przejdź na kurs:",
+    "image": null,
+    "options": [
+      "aby wiatr wiał od dziobu   ",
+      "aby wiatr wiał od rufy  ",
+      "stań w dryfie   ",
+      "kurs nie ma znaczenia  "
+    ],
+    "answer": 1
   },
   {
     "id": 205,
@@ -2420,8 +2586,8 @@
   },
   {
     "id": 217,
-    "question": "Zna k przedstawiony obok to:",
-    "image": null,
+    "question": "Znak przedstawiony obok to:",
+    "image": "img/q217.png",
     "options": [
       "znak odosobnionego niebezpieczeństwa   ",
       "znak specjalny  ",
@@ -2464,13 +2630,21 @@
       "kokpit   ",
       "handreling  ",
       "odbojnica   ",
-      "greting  ",
+      "greting  "
+    ],
+    "answer": 2
+  },
+  {
+    "id": 222,
+    "question": "Rufowa część kadłuba to:",
+    "image": null,
+    "options": [
       "achterpik   ",
       "forpik  ",
       "kokpit   ",
       "stępka  "
     ],
-    "answer": 2
+    "answer": 1
   },
   {
     "id": 223,
@@ -2564,7 +2738,15 @@
       "prawą   ",
       "lewą  ",
       "to zale ży od ustalonego kierunku szlaku   ",
-      "dowolną burtą  ",
+      "dowolną burtą  "
+    ],
+    "answer": 2
+  },
+  {
+    "id": 231,
+    "question": " Śluza jest budowlą hydrotechniczną służącą do:",
+    "image": null,
+    "options": [
       "regulacji poziomu wody w zbiornikach retencyjnych   ",
       "zapewnieniu połączenia między zbiornikami o różnym poziomie wody  ",
       "spiętrzania wody   ",
@@ -2664,13 +2846,21 @@
       "waterwajsy   ",
       "sztormrelingi  ",
       "falszburty   ",
-      "knagi  ",
+      "knagi  "
+    ],
+    "answer": 2
+  },
+  {
+    "id": 240,
+    "question": "Napięcie znamionowe u większości akumulatorów łodziowych wynosi:",
+    "image": null,
+    "options": [
       "230 V   ",
       "24V ",
       "12 V   ",
       "18 V  "
     ],
-    "answer": 2
+    "answer": 3
   },
   {
     "id": 241,
@@ -2752,7 +2942,15 @@
       "lewą  ",
       "prawą   ",
       "dowolną  ",
-      "tyka oznacza zak az pływania na danym odcinku  ",
+      "tyka oznacza zak az pływania na danym odcinku  "
+    ],
+    "answer": 1
+  },
+  {
+    "id": 248,
+    "question": "Określenie kierunku „w górę” na głównym szlaku Wielkich Jezior Mazurskich oznacza ruch w kierunku:",
+    "image": null,
+    "options": [
       "miejscowości Pisz  ",
       "miejscowości Węgorzewo   ",
       "miejscowości Giżycko  ",
@@ -2786,7 +2984,7 @@
   },
   {
     "id": 251,
-    "question": "Produktami kondensacji pary wodnej mogą by ć:",
+    "question": "Produktami kondensacji pary wodnej mogą być:",
     "image": null,
     "options": [
       "chmury, opady, mgły  ",
@@ -2849,16 +3047,24 @@
     "question": "Co oznacza „jeden krótki sygnał”?",
     "image": null,
     "options": [
-      "zmieniam kurs w lewo  ",
-      "zmieniam kurs w prawo  ",
-      "moje maszyny pracują wstecz  ",
-      "żadna odpowiedź nie jest prawidłowa  ",
       "Wyprzedzam Was po prawej burcie  ",
       "Człowiek za burtą  ",
       "Nie mogę manewrować  ",
       "Zmieniam kurs w lewo  "
     ],
     "answer": 2
+  },
+  {
+    "id": 257,
+    "question": "Cztery krótkie dźwięki nadane przez statek oznacza?",
+    "image": null,
+    "options": [
+      "Wyprzedzam Was po prawej burcie  ",
+      "Człowiek za burtą  ",
+      "Nie mogę manewrować  ",
+      "Zmieniam kurs w lewo  "
+    ],
+    "answer": 3
   },
   {
     "id": 258,
@@ -2952,13 +3158,21 @@
       "Prom na uwięzi  ",
       "Statek holowany  ",
       "Statek na kotwicy  ",
-      "Statek na mieliźnie  ",
+      "Statek na mieliźnie  "
+    ],
+    "answer": 2
+  },
+  {
+    "id": 266,
+    "question": "Statek który utracił manewrowość pokazuje w nocy dodatkowo",
+    "image": null,
+    "options": [
       "Dwa czerwone światła jedno nad drugim widoczne dookoła widnokręgu  ",
       "Trzy czerwone światła w pionie widoczne dookoła widnokręgu  ",
       "Jedno światło czerwone widoczne dookoła widnokręgu  ",
       "Żadna odpowiedź nie jest prawidłowa  "
     ],
-    "answer": 2
+    "answer": 1
   },
   {
     "id": 267,
@@ -2987,7 +3201,7 @@
   {
     "id": 269,
     "question": "Co oznacza następująca flaga:",
-    "image": null,
+    "image": "img/q269.png",
     "options": [
       "Mam pilota na pokładzie  ",
       "Potrzebuje pomocy medycznej  ",
@@ -3052,13 +3266,21 @@
       "Światło białe, szybko migające  ",
       "Światło białe, trzy szybkie mignięcia  ",
       "Światło białe, sześć szybkich mignieć plus jeden błys  ",
-      "Światło białe, dziewięć szybkich mignięć  ",
+      "Światło białe, dziewięć szybkich mignięć  "
+    ],
+    "answer": 4
+  },
+  {
+    "id": 275,
+    "question": "Jaki front jest pokazany na rysunku?",
+    "image": "img/q275.png",
+    "options": [
       "Front Zokludowany  ",
       "Front Ciepły  ",
       "Front zimny  ",
       "Wszystkie odpowiedzi są poprawne  "
     ],
-    "answer": 4
+    "answer": 2
   },
   {
     "id": 276,
@@ -3075,7 +3297,7 @@
   {
     "id": 277,
     "question": "Jaki front jest pokazan y na rysunku?",
-    "image": null,
+    "image": "img/q277.png",
     "options": [
       "Front Zokludowany  ",
       "Front Ciepły  ",
@@ -3152,13 +3374,21 @@
       "Wiatr o prędkości 3 węzłów  ",
       "Wiatr o prędkości 35węzłów  ",
       "Wiatr o prędkości 4 węzłów  ",
-      "Żadna z odpowiedzi nie jest poprawna  ",
+      "Żadna z odpowiedzi nie jest poprawna  "
+    ],
+    "answer": 2
+  },
+  {
+    "id": 284,
+    "question": "Co oznacza symbol meteo przedstawiony na rysunku?",
+    "image": "img/q284.png",
+    "options": [
       "Układ wyżowy  ",
       "Układ niżowy  ",
       "Front ciepły  ",
       "Front zimny  "
     ],
-    "answer": 2
+    "answer": 1
   },
   {
     "id": 285,

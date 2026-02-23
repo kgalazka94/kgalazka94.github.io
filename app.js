@@ -28,7 +28,7 @@ async function loadQuestions() {
 const res = await fetch("questions.json");
 QUESTIONS = await res.json();
 
-// 🔥 AUTOMATYCZNA NORMALIZACJA ODPOWIEDZI (1-based → 0-based)
+// Normalizacja 1-based → 0-based
 QUESTIONS.forEach(q => {
 if (typeof q.answer === "number" && q.answer > 0) {
 q.answer = q.answer - 1;
@@ -116,38 +116,34 @@ let html = `<h3>Pytanie ${currentIndex+1}</h3><p>${q.question}</p>`;
 
 q.options.forEach((opt,i)=>{
 let checked = examAnswers[q.id]===i ? "checked":"";
-let disabled = mode==="learn" && progress[q.id]?.answered ? "disabled":"";
 
 html += `
 <div>
-<input type="radio" name="ans" value="${i}" ${checked} ${disabled}
+<input type="radio" name="ans" value="${i}" ${checked}
 onclick="handleAnswer(${i})"> ${opt}
 </div>`;
 });
 
 html += `<div id="feedback" style="margin-top:15px;"></div>`;
 
-if(mode==="learn" && progress[q.id]?.answered) {
-showLearningFeedback(q);
-}
-
 document.getElementById("content").innerHTML = html;
-updateProgressBar();
+
+if(mode === "exam") updateProgressBar();
 }
 
 function handleAnswer(selectedIndex) {
 const q = currentSet[currentIndex];
 
+// ===== TRYB EGZAMIN =====
 if(mode === "exam") {
 examAnswers[q.id] = selectedIndex;
 updateProgressBar();
 return;
 }
 
-// TRYB NAUKI
-if (!progress[q.id]) progress[q.id] = { correct: 0, wrong: 0 };
+// ===== TRYB NAUKI =====
 
-progress[q.id].answered = true;
+if (!progress[q.id]) progress[q.id] = { correct: 0, wrong: 0 };
 
 const allInputs = document.querySelectorAll('input[name="ans"]');
 allInputs.forEach(input => input.disabled = true);

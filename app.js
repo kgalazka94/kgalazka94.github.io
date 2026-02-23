@@ -25,6 +25,13 @@ document.getElementById("userBox").innerText = "👤 " + nick;
 async function loadQuestions() {
 const res = await fetch("questions.json");
 QUESTIONS = await res.json();
+
+// AUTOMATYCZNA NORMALIZACJA ODPOWIEDZI
+QUESTIONS.forEach(q => {
+if(q.answer > 0) {
+q.answer = q.answer - 1;
+}
+});
 }
 
 function loadProgress() {

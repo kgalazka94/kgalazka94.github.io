@@ -1,0 +1,3187 @@
+[
+  {
+    "id": 1,
+    "question": "Bez uprawnień można prowadzić jachty żaglowe:",
+    "image": null,
+    "options": [
+      "o długości kadłuba maksymalnie do 5 m  ",
+      "o długości kadłuba maksymalnie do 7,5 m   ",
+      "nie można prowadzić żadnego jachtu  ",
+      "o długości kadłuba maksymalnie do 6,5 m  "
+    ],
+    "answer": 2
+  },
+  {
+    "id": 2,
+    "question": "Sternik motorowodny może prowadzić jachty motorowe:",
+    "image": null,
+    "options": [
+      "o długości kadłuba powyżej 18 m po wodach morskich   ",
+      "po wodach śródlądowych, a także o długości do 12 m po wodach morskich do 2 Mm od brzegu ",
+      "nie można prowadzić żadnego jachtu   ",
+      "przewożące 20 pasażerów  "
+    ],
+    "answer": 2
+  },
+  {
+    "id": 3,
+    "question": "Paten t sternika motorowodnego wydawany jest przez:",
+    "image": null,
+    "options": [
+      "Polski Związek Żeglarstwa   ",
+      "Urząd Żeglugi Śródlądowej  ",
+      "Polski Związek Motorowodny i Narciarstwa Wodnego   ",
+      "Polski Związek Motorowodniactwa  "
+    ],
+    "answer": 3
+  },
+  {
+    "id": 4,
+    "question": "Czy pełnoletni sternik motorowodny może zabrać na rejs osobę nie \nposia dającą stopnia motorowodnego?",
+    "image": null,
+    "options": [
+      "nie ",
+      "tak, ale tylko osobę pełnoletnią   ",
+      "tak, niezależnie od wieku  ",
+      "tak, ale tylko umiejąca pływać  "
+    ],
+    "answer": 3
+  },
+  {
+    "id": 5,
+    "question": "Czy sternik motorowodny może prowadzić jacht w porze nocnej?",
+    "image": null,
+    "options": [
+      "tylko jacht żaglowy wyposażony w silnik pomocniczy  ",
+      "jacht posiadając e stosowne światła nawigacyjne   ",
+      "jacht posiadający stosowne światła nawigacyjne tylko na wodach, na ",
+      "nie może  "
+    ],
+    "answer": 3
+  },
+  {
+    "id": 6,
+    "question": "Jakie licencje wydaje Polski Związek Motorowodny i Narciarstwa Wodnego?",
+    "image": null,
+    "options": [
+      "licencję na holowanie obiektów pływ ających (narciarza wodnego)  oraz licencję na ",
+      "licencję na holowanie banana   ",
+      "licencję na holowanie samolotów  ",
+      "PZMWiNW nie wydaje żadnych licencji  "
+    ],
+    "answer": 1
+  },
+  {
+    "id": 7,
+    "question": "Posiadacz licencji na holowanie narciarza wodnego jest uprawniony do:",
+    "image": null,
+    "options": [
+      "holowania  spadochronu, lotni, spadolotni, wiroszybowca i itp.   ",
+      "pływania jachtem motorowym o mocy silnika powyżej 100 kW   ",
+      "holowania narciarza wodnego i innych nawodnych obiektów pływających, w tym ",
+      "żadna z powyższych odpowiedzi nie jest prawidłowa   "
+    ],
+    "answer": 3
+  },
+  {
+    "id": 8,
+    "question": "Posiadacz licencji na holowanie statków powietrznych jest uprawniony do:",
+    "image": null,
+    "options": [
+      "holowania spadochronu, lotni, spadolotni, wiroszybowca i itp.  ",
+      "pływania jachtem motorowym o mocy silnika powyżej 100 kW   ",
+      "holowania narciarza wodnego i innych nawodnych obiektów pływ ających, w tym ",
+      "żadna z powyższych odpowiedzi nie jest prawidłowa  ",
+      "statek uprawiający tylko żeglugę śródlądową   ",
+      "każdy statek i prom z wyjątkiem urządzeń pływaj ących nie ",
+      "statek żeglugi śródlądowej , w tym mały statek lub prom,  ",
+      "statek wprowadzany w ruch tylko przez mechaniczne urządzenie napędowe  "
+    ],
+    "answer": 1
+  },
+  {
+    "id": 10,
+    "question": "\"Statek żaglowy\" w pojęciu przepisów żeglugowych na śródlądowych drogach wodnych to:",
+    "image": null,
+    "options": [
+      "każdy statek uprawiający żeglugę za pomocą żagli lub silnika pomocniczego  ",
+      "każdy statek uprawiający żeglugę za pomocą żagli   ",
+      "każdy statek uprawiający żeglugę wyłącznie za pom ocą żagli   ",
+      "każdy statek zarejestrowany jako statek żaglowy  "
+    ],
+    "answer": 3
+  },
+  {
+    "id": 11,
+    "question": "\"Statek o napędzie mechanicznym\" w pojęciu przepisów żeglugowych na \nśródlądowych drogach wodnych to:",
+    "image": null,
+    "options": [
+      "każdy statek uprawiający żeglugę śródlądową  ",
+      "każdy statek wyposażony w silnik i płynący na żaglach   ",
+      "każdy statek wprowadzany w ruch przez maszynę  ",
+      "każdy statek wprowadzany w ruch za pomocą wioseł  "
+    ],
+    "answer": 3
+  },
+  {
+    "id": 12,
+    "question": "Na drodze wodnej widzisz w nocy statek pokazujący na prawej burcie czerwone światło,  \na na lewej burcie dwa zielone światła w pionie. Z której go minie sz:",
+    "image": null,
+    "options": [
+      "z jego prawej burty   ",
+      "z jego lewej burty  ",
+      "zatrzymam się do kontroli   ",
+      "należy zawrócić  "
+    ],
+    "answer": 2
+  },
+  {
+    "id": 13,
+    "question": "Gdzie nosi banderę jachty płynący pod silnikiem:",
+    "image": null,
+    "options": [
+      "na maszcie   ",
+      "na flagsztoku  ",
+      "nosi tylko proporzec   ",
+      "na dziobie  "
+    ],
+    "answer": 2
+  },
+  {
+    "id": 14,
+    "question": "Statek na morzu niesie drugie światło masztowe gdy  jego długość wynosi co najmniej:",
+    "image": null,
+    "options": [
+      "50 m  i więcej  ",
+      "100 m  i  więcej  i ",
+      "25 m  i więcej  ",
+      "200 m  i więcej   "
+    ],
+    "answer": 1
+  },
+  {
+    "id": 15,
+    "question": "W ciągu dnia widzisz statek niosący pod salingiem czarny walec. Co to za statek:",
+    "image": null,
+    "options": [
+      "statek trałujący  ",
+      "statek holujący   ",
+      "statek ograniczony swym zanurzeniem  ",
+      "wodolot  "
+    ],
+    "answer": 3
+  },
+  {
+    "id": 16,
+    "question": "Windsurfing płynie na kursie kolizyjnym z jachtem motorowym. Kto ma \npierwszeństwo:",
+    "image": null,
+    "options": [
+      "windsurfing   ",
+      "jacht motorowy  ",
+      "obydwa muszą ustąpić   ",
+      "nie można ustalić pierwszeństwa  ",
+      "na drodze śluza  ",
+      "statek poławiający   ",
+      "prom na uwięzi  ",
+      "statek holujący  "
+    ],
+    "answer": 1
+  },
+  {
+    "id": 18,
+    "question": "Statek, który utracił manewrowość pokazuje w nocy dodatkowo światła widoczne ze wszystkich \nstron:",
+    "image": null,
+    "options": [
+      "trzy czerwone jedno nad drugim   ",
+      "dwa czerwone jedno nad dru gim ",
+      "dwa czerwone obok siebie   ",
+      "dwa zielone jedno nad drugim  "
+    ],
+    "answer": 2
+  },
+  {
+    "id": 19,
+    "question": "Dwa jachty motorowe płyną na przecięcie kursu, który ustępuje z drogi:",
+    "image": null,
+    "options": [
+      "ten, który ma drugi jacht z prawej strony   ",
+      "wolniejszy z prawej  ",
+      "mniejszy   ",
+      "większy  "
+    ],
+    "answer": 1
+  },
+  {
+    "id": 20,
+    "question": "Jacht płynący na żaglach i na siln iku traktowany jest jako:",
+    "image": null,
+    "options": [
+      "statek o napędzie mechanicznym   ",
+      "statek żaglowo -motorowy  ",
+      "statek żaglowy   ",
+      "przepisy nie określają kwalifikacji  "
+    ],
+    "answer": 1
+  },
+  {
+    "id": 21,
+    "question": "Żółta kula na statku oznacza:",
+    "image": null,
+    "options": [
+      "statek zajęty pogłębianiem   ",
+      "statek na kotwicy  ",
+      "statek holowany   ",
+      "prom na uwięzi  "
+    ],
+    "answer": 3
+  },
+  {
+    "id": 22,
+    "question": "St atek wyprzedzany nadał sygnał wskazujący zgodę wyprzedzania z prawej burty.   \nJaki to sygnał:",
+    "image": null,
+    "options": [
+      "−−•••   ",
+      "−−••  ",
+      "− − •  ",
+      "− − "
+    ],
+    "answer": 3
+  },
+  {
+    "id": 23,
+    "question": "Pierwszeństwo na rzece ma statek:",
+    "image": null,
+    "options": [
+      "płynący w górę rzeki   ",
+      "płynący w dół rzeki  ",
+      "większy statek   ",
+      "większy statek  "
+    ],
+    "answer": 2
+  },
+  {
+    "id": 24,
+    "question": "Osoba bez patentu mot orowodnego może prowadzić motorówkę z silnikiem o mocy:",
+    "image": null,
+    "options": [
+      "do 5 kW   ",
+      "do 10 kW  ",
+      "do 15 kW   ",
+      "nie może prowadzić bez patentu  "
+    ],
+    "answer": 2
+  },
+  {
+    "id": 25,
+    "question": "Za bezpieczeństwo żeglugi odpowiada:",
+    "image": null,
+    "options": [
+      "mechanik   ",
+      "armator  ",
+      "kierownik  statku   ",
+      "najstarsza osoba na jachcie  ",
+      "•••−−−•••   ",
+      "−−−•••−−−  ",
+      "−−−•••   ",
+      "•••− −•••  "
+    ],
+    "answer": 3
+  },
+  {
+    "id": 27,
+    "question": "Sektor świecenia światła rufowego wynosi:",
+    "image": null,
+    "options": [
+      "150º   ",
+      "135º  ",
+      "145º   ",
+      "225º  "
+    ],
+    "answer": 2
+  },
+  {
+    "id": 28,
+    "question": "Sektor świecenia światła masztowego wynosi:",
+    "image": null,
+    "options": [
+      "215º   ",
+      "135º  ",
+      "145º   ",
+      "225º  "
+    ],
+    "answer": 4
+  },
+  {
+    "id": 29,
+    "question": "Jaki kolor światła ma lewa burta:",
+    "image": null,
+    "options": [
+      "czerwony   ",
+      "zielony  ",
+      "żółty   ",
+      "niebieski  "
+    ],
+    "answer": 1
+  },
+  {
+    "id": 30,
+    "question": "Jeden długi − dźwięk trwa:",
+    "image": null,
+    "options": [
+      "ok. 1 sekundy  ",
+      "ok. 2 sekund   ",
+      "ok. 3 sekund  ",
+      "ok. 4 sekund   "
+    ],
+    "answer": 4
+  },
+  {
+    "id": 31,
+    "question": "Jeden krótki dźwięki • nadany przez statek oznacza:",
+    "image": null,
+    "options": [
+      "uwaga  ",
+      "zmieniam mój kurs w prawo   ",
+      "nie mogę manewrować  ",
+      "zmieniam mój kurs w lewo  "
+    ],
+    "answer": 2
+  },
+  {
+    "id": 32,
+    "question": "Dwa krótkie dźwięki • • nadane przez statek oznaczają:",
+    "image": null,
+    "options": [
+      "zmieniam mój kurs w prawo  ",
+      "zmieniam mój kurs w lewo   ",
+      "uwaga  ",
+      "niebezpieczeństwo zderzenia  "
+    ],
+    "answer": 2
+  },
+  {
+    "id": 33,
+    "question": "Trzy krótkie dźwięki • • • nadane przez statek oznaczają:",
+    "image": null,
+    "options": [
+      "uwaga  ",
+      "człowiek za burtą   ",
+      "nie mogę manewrować  ",
+      "moje maszyny pracują wstecz  "
+    ],
+    "answer": 4
+  },
+  {
+    "id": 34,
+    "question": "Cztery krótkie dźwięki • • • • nadane przez statek oznaczają:",
+    "image": null,
+    "options": [
+      "uwaga  ",
+      "człowiek za burtą   ",
+      "nie mogę manewrować  ",
+      "zmieniam mój kurs w lewo  ",
+      "\"Uwaga\"  ",
+      "\"Wzywam pomocy\"   ",
+      "\"Niebezpieczeństwo zderzenia\"  ",
+      "\"Człowiek za  burtą\"  "
+    ],
+    "answer": 3
+  },
+  {
+    "id": 36,
+    "question": "Co oznacza powtarzana seria uderzeń w dzwon?",
+    "image": null,
+    "options": [
+      "\"Wzywam pomocy\"  ",
+      "\"Stoję na mieliźnie\"   ",
+      "\"Stoję na kotwicy\"  ",
+      "\"Niebezpieczeństwo zderzenia\"  "
+    ],
+    "answer": 1
+  },
+  {
+    "id": 37,
+    "question": "Co oznacza kula wisząca nad flagą?",
+    "image": null,
+    "options": [
+      "mam uszkodzony silnik  ",
+      "mam uszkodzony ster i nie mogę manewrować   ",
+      "sygn ał wzywania pomocy  ",
+      "mam nurka pod wodą  "
+    ],
+    "answer": 3
+  },
+  {
+    "id": 38,
+    "question": "Co oznacza zataczanie kręgów latarką?",
+    "image": null,
+    "options": [
+      "zwyczajowy gest pozdrowienia innych jachtów w nocy  ",
+      "sygnał wzywania pomocy   ",
+      "mam ciężko rannego na pokładzie  ",
+      "nie mogę manewrować   "
+    ],
+    "answer": 2
+  },
+  {
+    "id": 39,
+    "question": "Co oznaczają rakiety wyrzucające czerwone  gwiazdy?",
+    "image": null,
+    "options": [
+      "sygnał zwrócenia uwagi innym jachtom  ",
+      "sygnał wzywania pomocy   ",
+      "uroczyste rozpoczęcie regat  ",
+      "zatrzymajcie natychmiast wasz statek  "
+    ],
+    "answer": 2
+  },
+  {
+    "id": 40,
+    "question": "Co oznacza następujący sygnał świetlny: trzy krótkie, trzy długie, trzy krótkie błyski?",
+    "image": null,
+    "options": [
+      "sygnał wzywania pomocy  ",
+      "ostrze żenie innych jachtów że zbliżają się mielizny   ",
+      "ostrzeżenie innych jachtów że istnieje niebezpieczeństwo zderzenia  ",
+      "sygnał informujący o rozpoczęciu regat w 3 klasach równocześnie  "
+    ],
+    "answer": 1
+  },
+  {
+    "id": 41,
+    "question": "Jakiego koloru są pirotechniczne sygnały wzywania pomocy?",
+    "image": null,
+    "options": [
+      "zielonego, za wyjątkiem sygnałów dymnych, które są koloru niebieskiego  ",
+      "żółtego   ",
+      "czerwonego, za wyjątkiem sygnałów dymnych, które są koloru pomarańczowego  ",
+      "niebieskiego  "
+    ],
+    "answer": 3
+  },
+  {
+    "id": 42,
+    "question": "Kiedy światła nawigacyjne statku powinny być zapalone?",
+    "image": null,
+    "options": [
+      "od świtu do zmierzchu oraz w warunkach ogr aniczonej widzialności  ",
+      "od godz. 2000  do godz. 0600  dnia następnego  ",
+      "od zachodu do wschodu słońca oraz w warunkach ograniczonej widzialności  ",
+      "od godz. 1900  do godz. 0700  dnia następnego  "
+    ],
+    "answer": 3
+  },
+  {
+    "id": 43,
+    "question": "Mały statek to statek o maksymalnej długości mniejszej niż:",
+    "image": null,
+    "options": [
+      "15 m ",
+      "20 m   ",
+      "10 m  ",
+      "25 m  ",
+      "kierownik statku  ",
+      "osoba z najwyższym stopniem żeglarskim   ",
+      "osoba sterująca jachtem  ",
+      "osoba pełnoletnia znajdująca się na pokładzie  "
+    ],
+    "answer": 2
+  },
+  {
+    "id": 45,
+    "question": "Kto jest odpowiedzialny za przestrzegani e przepisów żeglugowych?",
+    "image": null,
+    "options": [
+      "kierownik statku  ",
+      "załoga   ",
+      "osoba sterująca jachtem  ",
+      "właściciel jachtu (armator)  "
+    ],
+    "answer": 1
+  },
+  {
+    "id": 46,
+    "question": "Jak powinien się zachować kierownik statku, jeżeli jest pod wpływem działania alkoholu lub \ninnych środków odurzających?",
+    "image": null,
+    "options": [
+      "powinien zachować szczególn ą uwagę prowadząc jacht  ",
+      "powinien unikać policji   ",
+      "powinien powiadomić WOPR, że będzie prowadził statek pod wpływem alkoholu lub innych ",
+      "nie może prowadzić statku   "
+    ],
+    "answer": 4
+  },
+  {
+    "id": 47,
+    "question": "Kogo należy powiadomić o wypadku utonięcia na szlaku żeglownym?",
+    "image": null,
+    "options": [
+      "Okręgowy Związek Żeglarski   ",
+      "Urząd Żeglugi Śródlądowej i Policję  ",
+      "Urząd Gminy   ",
+      "Armatora i ubezpieczyciela  "
+    ],
+    "answer": 2
+  },
+  {
+    "id": 48,
+    "question": "Jacht żaglowy poruszający się równocześnie za pomocą żagli i silnika uznawany jest \nza:",
+    "image": null,
+    "options": [
+      "statek o ograniczonej zdolności manewrowej  ",
+      "statek żaglowy   ",
+      "statek o napędzie mechanicznym  ",
+      "statek żaglowo – motorowy  "
+    ],
+    "answer": 3
+  },
+  {
+    "id": 49,
+    "question": "Jeżeli jacht żaglowy i jacht motorowy płyną kursami przecinającymi się i istnieje ryzyko \nzderzenia, to z drogi powinien ustąpić:",
+    "image": null,
+    "options": [
+      "jacht żaglowy, jeżeli płynie lewym halsem   ",
+      "jacht, który ma drugi ja cht ze swej prawej burty  ",
+      "jacht, który ma drugi jacht ze swej lewej burty   ",
+      "jacht motorowy  "
+    ],
+    "answer": 4
+  },
+  {
+    "id": 50,
+    "question": "Jeżeli dwa jachty motorowe płyną kursami przecinającymi się i istnieje \nryzyko zderzenia, to z drogi powinien ustąpić:",
+    "image": null,
+    "options": [
+      "jacht motorowy, który płynie wolniej  ",
+      "jacht motorowy, który ma drugi jacht ze swej prawej burty   ",
+      "jacht motorowy, który ma drugi jacht ze swej lewej burty  ",
+      "oba jachty powinny zmienić kurs  "
+    ],
+    "answer": 2
+  },
+  {
+    "id": 51,
+    "question": "Jeżeli dwa jachty motorowe płyną na wprost siebie  \ni istnieje ryzyko zderzenia, to z drogi powinien ustąpić:",
+    "image": null,
+    "options": [
+      "oba jachty zmieniają kurs w lewo i mijają się prawymi burtami   ",
+      "oba jachty powinny zawrócić  ",
+      "jacht motorowy który porusza się wolniej   ",
+      "oba jachty zmieniają kurs w prawo i mijają się lewymi burtami  ",
+      "jacht motorowy, ponieważ jest jachtem wyprzedzanym   ",
+      "oba jachty powinny zmienić kurs w lewo  ",
+      "oba jachty powinny zmienić kurs w prawo   ",
+      "jacht żaglowy, ponieważ jest jachtem wyprzedzającym  "
+    ],
+    "answer": 4
+  },
+  {
+    "id": 53,
+    "question": "Jeżeli jeden jacht motorowy wypływa z portu,  natomiast inny jacht motorowy zbliża się do portu, to  \nz drogi powinien ustąpić:",
+    "image": null,
+    "options": [
+      "jacht motorowy, który wypływa z portu ustępuje jachtowi wpływającemu do portu  ",
+      "jacht motorowy, który wypływa z portu powinien zawrócić   ",
+      "oba jachty powinny zmienić kurs w praw o ",
+      "jacht motorowy, który zbliża się do portu ustępuje jachtowi, który wypływa z portu   "
+    ],
+    "answer": 4
+  },
+  {
+    "id": 54,
+    "question": "Jaka to jest prędkość - 1 węzeł (1 w):",
+    "image": null,
+    "options": [
+      "1 km/h (km – kilometr)  ",
+      "1 yd/h (yd – jard)   ",
+      "1 Mm/h (Mm – mila morska)  ",
+      "1 ft/s (ft – stopa)  "
+    ],
+    "answer": 3
+  },
+  {
+    "id": 55,
+    "question": "1 Mm (mila morska, NM – nautical mi le) wynosi w metrach:",
+    "image": null,
+    "options": [
+      "1 000 m  ",
+      "182 m   ",
+      "1 852 m  ",
+      "100 m  "
+    ],
+    "answer": 3
+  },
+  {
+    "id": 56,
+    "question": "Bakista to:",
+    "image": null,
+    "options": [
+      "rodzaj stałego zbiornika na paliwo  ",
+      "zamykany schowek do przechowywania różnych rzeczy   ",
+      "najniżej położone miejsce na jachcie  ",
+      "żadna odpowiedź nie jest prawidłowa  "
+    ],
+    "answer": 2
+  },
+  {
+    "id": 57,
+    "question": "Kokpit to:",
+    "image": null,
+    "options": [
+      "miejsce pracy kuka  – (kuchnia na jachcie)  ",
+      "miejsce na pokładzie, w którym przebywa załoga   ",
+      "miejsce pod pokładem w środkowej części jachtu  ",
+      "żadna odpowiedź nie jest prawidłowa  "
+    ],
+    "answer": 2
+  },
+  {
+    "id": 58,
+    "question": "Kambuz to:",
+    "image": null,
+    "options": [
+      "schowek na sztormiaki  ",
+      "schowek na żywność   ",
+      "miejsce pracy kuka – (kuchnia na jachcie)  ",
+      "żadn a odpowiedź nie jest prawidłowa  "
+    ],
+    "answer": 3
+  },
+  {
+    "id": 59,
+    "question": "Kingston to:",
+    "image": null,
+    "options": [
+      "miejsce odpoczynku załogi po posiłku  ",
+      "kuchnia na jachcie   ",
+      "ubikacja na jachcie  ",
+      "miejsce, w który jest montowana pompa zęzowa  "
+    ],
+    "answer": 3
+  },
+  {
+    "id": 60,
+    "question": "Koja to:",
+    "image": null,
+    "options": [
+      "okucie przytrzymujące kotwicę na pokładzie  ",
+      "okucie do mocowania silnika   ",
+      "ubik acja na jachcie  ",
+      "żadna  odpowiedź nie jest prawidłowa  ",
+      "pomiaru ciśnienia   ",
+      "pomiaru prędkości wiatru  ",
+      "pomiaru głębokości   ",
+      "pomiaru przebytej drogi  "
+    ],
+    "answer": 4
+  },
+  {
+    "id": 62,
+    "question": "Manetka to:",
+    "image": null,
+    "options": [
+      "północna pława kardynalna   ",
+      "dźwignia służąca do sterowania obrot ami silnika  ",
+      "linka służąca do uruchomienia silnika   ",
+      "rodzaj zakończenia rufy statku  "
+    ],
+    "answer": 2
+  },
+  {
+    "id": 63,
+    "question": "Podstawowe liny służące do cumowania jachtu to:",
+    "image": null,
+    "options": [
+      "cuma dziobowa i rufowa, szpring dziobowy i rufowy   ",
+      "cuma dziobowa i rufowa oraz rzutka  ",
+      "cuma dziobowa i rufowa oraz liny trapo we  ",
+      "cuma dziobowa i rufowa, sonda ręczna  "
+    ],
+    "answer": 1
+  },
+  {
+    "id": 64,
+    "question": "Najniższa przestrzeń kadłuba, gdzie zbiera się woda to:",
+    "image": null,
+    "options": [
+      "jaskółka   ",
+      "bakista  ",
+      "zęza   ",
+      "gródź  "
+    ],
+    "answer": 3
+  },
+  {
+    "id": 65,
+    "question": "Prawidłowe czynności przy wyłączaniu kuchenki gazowej:",
+    "image": null,
+    "options": [
+      "wyłączamy palnik, następnie zamykamy zawór na butli   ",
+      "zamykamy zawór na  butli, następnie po zgaśnięciu płomienia wyłączamy palnik  ",
+      "wyłączamy palnik   ",
+      "zalewamy palnik wodą następnie zamykamy zawór na butli  "
+    ],
+    "answer": 2
+  },
+  {
+    "id": 66,
+    "question": "Do obkładania cum na kei służy:",
+    "image": null,
+    "options": [
+      "poler   ",
+      "kabestan  ",
+      "sztagownik   ",
+      "odbijacz  "
+    ],
+    "answer": 1
+  },
+  {
+    "id": 67,
+    "question": "Główna belka konstrukcyjna jachtu to:",
+    "image": null,
+    "options": [
+      "węzłówka   ",
+      "kątnica ",
+      "stępka   ",
+      "gródź  "
+    ],
+    "answer": 3
+  },
+  {
+    "id": 68,
+    "question": "Przekładnia typu „Z” może być obracana:",
+    "image": null,
+    "options": [
+      "tylko w płaszczyźnie poziomej   ",
+      "tylko w płaszczyźnie pionowej  ",
+      "jest nieruchoma   ",
+      "w płaszczyźnie pionowej i poziomej  "
+    ],
+    "answer": 4
+  },
+  {
+    "id": 69,
+    "question": "Lina cumująca jacht biegnąca od dziobu w kierunku rufy to:",
+    "image": null,
+    "options": [
+      "szpring dziobowy   ",
+      "szpring rufowy  ",
+      "cuma dziobowa   ",
+      "cuma rufowa  ",
+      "szpring dziobowy   ",
+      "szpring rufowy  ",
+      "cuma dziobowa   ",
+      "cuma rufowa  "
+    ],
+    "answer": 1
+  },
+  {
+    "id": 71,
+    "question": "Pawęż to:",
+    "image": null,
+    "options": [
+      "inaczej trap   ",
+      "wzmocnienie burty jachtu  ",
+      "część rufowa kadłuba do której mocowany jest  silnik   ",
+      "pokład w części dziobowej jachtu  "
+    ],
+    "answer": 3
+  },
+  {
+    "id": 72,
+    "question": "Knaga służy do:",
+    "image": null,
+    "options": [
+      "mocowania lin (cum, szotów, fałów)   ",
+      "zabezpieczenia śruby napędowej  ",
+      "do pompowania zęzy   ",
+      "ręcznego uruchamiania silnika   "
+    ],
+    "answer": 1
+  },
+  {
+    "id": 73,
+    "question": "Podczas pracy silnika należy:",
+    "image": null,
+    "options": [
+      "ściągnąć obudowę w celu poprawienia chłodz enia   ",
+      "sprawdzać, czy przez silnik przepływa woda  ",
+      "zwiększyć ssanie w celu poprawienia smarowania silnika   ",
+      "żadna odpowiedź nie jest prawidłowa  "
+    ],
+    "answer": 2
+  },
+  {
+    "id": 74,
+    "question": "Do silnika dwusuwowego stosujemy:",
+    "image": null,
+    "options": [
+      "Benzynę bez oleju  ",
+      "Benzynę zmieszaną z olejem   ",
+      "Olej napędowy (diesel)  ",
+      "żadna odpo wiedź nie jest prawidłowa  "
+    ],
+    "answer": 2
+  },
+  {
+    "id": 75,
+    "question": "Do silnika czterosuwowego gaźnikowego stosujemy:",
+    "image": null,
+    "options": [
+      "Benzynę bez oleju  ",
+      "Benzynę zmieszaną z olejem   ",
+      "Olej napędowy (diesel)  ",
+      "żadna odpowiedź nie jest prawidłowa  "
+    ],
+    "answer": 1
+  },
+  {
+    "id": 76,
+    "question": "W przypadku ścięcia trzpienia (klina, wałka) mocującego śrubę można \nzastosować:",
+    "image": null,
+    "options": [
+      "mocującego śrubę można ",
+      "tylko oryginalny trzpień   ",
+      "trzpień dorobiony z aluminium  ",
+      "trzpień dorobiony ze stali   ",
+      "trzpień dorobiony z miedzi  "
+    ],
+    "answer": 1
+  },
+  {
+    "id": 77,
+    "question": "Po uruchomieniu silnika należy:",
+    "image": null,
+    "options": [
+      "wyłączyć ssanie   ",
+      "dopompować paliwo do pompy  ",
+      "zwiększyć mocno obroty, aby silnik nie zgasł przy w łączaniu biegu   ",
+      "zamknąć odpowietrznik  "
+    ],
+    "answer": 1
+  },
+  {
+    "id": 78,
+    "question": "Manetka silnika stacjonarnego ustawiona jest przy rozruchu:",
+    "image": null,
+    "options": [
+      "na biegu wstecznym   ",
+      "na biegu jałowym  ",
+      "na 1/3 biegu do przodu   ",
+      "nie ma to znaczenia  ",
+      "tak  ",
+      "nie ",
+      "zależy od  konstrukcji dwusuwów   ",
+      "posiada dwie niezależne miski olejowe  "
+    ],
+    "answer": 2
+  },
+  {
+    "id": 80,
+    "question": "Ile koni mechanicznych ma 1 kW:",
+    "image": null,
+    "options": [
+      "1,36 KM   ",
+      "1,50 KM  ",
+      "1,00 KM   ",
+      "1,75 KM   "
+    ],
+    "answer": 1
+  },
+  {
+    "id": 81,
+    "question": "Główne parametry charakteryzujące śrubę to:",
+    "image": null,
+    "options": [
+      "skok śruby (H), średnica (D)   ",
+      "posuw śruby  ",
+      "kąt natarcia łopat   ",
+      "grubość łopat  "
+    ],
+    "answer": 1
+  },
+  {
+    "id": 82,
+    "question": "Co rozumiemy pod pojęciem śruby prawoskrętnej?",
+    "image": null,
+    "options": [
+      "gdy patrzymy od rufy śruba obraca się zgodnie z ruchem wskazówek zegara, a łódź płynie do ",
+      "śruba, która zmienia ustawienie łopatek przy zmianie kursu w prawo   ",
+      "gdy patrzymy od rufy śruba obraca się przeciwnie do ruchu wskazówek zegara, a łódź płynie ",
+      "śruba składana  "
+    ],
+    "answer": 1
+  },
+  {
+    "id": 83,
+    "question": "Co rozumiemy pod pojęciem śruby lewoskrętnej?",
+    "image": null,
+    "options": [
+      "gdy patrzymy od rufy śruba obraca się zgodnie z ruchem wskazówek zegara, a łódź płynie do ",
+      "śruba, która zmienia ustawien ie łopatek przy zmianie kursu w prawo   ",
+      "gdy patrzymy od rufy śruba obraca się przeciwnie do ruchu wskazówek zegara, a łódź płynie ",
+      "śruba składana  "
+    ],
+    "answer": 3
+  },
+  {
+    "id": 84,
+    "question": "Jakie oddziaływanie ma prawoskrętna śruba przy płynięciu do przodu?",
+    "image": null,
+    "options": [
+      "odrzuca rufę w prawo   ",
+      "odrzu ca dziób w prawo  ",
+      "odrzuca rufę w lewo   ",
+      "nie ma wpływu na kierunek ruchu jachtu  "
+    ],
+    "answer": 1
+  },
+  {
+    "id": 85,
+    "question": "Przy śrubie lewoskrętnej pracującej wstecz rufa jest odrzucana:",
+    "image": null,
+    "options": [
+      "w prawą stronę   ",
+      "w lewą stronę  ",
+      "zarzucanie nie występuje   ",
+      "zmiennie, raz w lewą, raz w prawą stronę  "
+    ],
+    "answer": 1
+  },
+  {
+    "id": 86,
+    "question": "Kończąc uży tkowanie kuchenki gazowej w pierwszej kolejności:",
+    "image": null,
+    "options": [
+      "zestawiamy naczynia z kuchenki   ",
+      "zamykamy zawór przy butli  ",
+      "zamykamy zawór przy kuchence   ",
+      "kolejność nie ma znaczenia  "
+    ],
+    "answer": 2
+  },
+  {
+    "id": 87,
+    "question": "Pompa zęzowa to:",
+    "image": null,
+    "options": [
+      "urządzenie do wypompowywania wody z wc   ",
+      "urządzenie do osuszania kok pitu ",
+      "urządzenie do chłodzenia silnika jachtowego   ",
+      "urządzenie do usuwania wody z dna jachtu  ",
+      "odpychać się od ściany śluzy za pomocą rąk lub nóg   ",
+      "zacumować się na biegowo  ",
+      "zacumować się do innego jachtu   ",
+      "żadna odpowiedź nie jest prawidłowa  "
+    ],
+    "answer": 4
+  },
+  {
+    "id": 89,
+    "question": "Podczas napełniania i opróżniania śluzy nie wolno:",
+    "image": null,
+    "options": [
+      "zacumować się do innego jachtu   ",
+      "chronić burt za pomocą bosaka  ",
+      "używać pędnika   ",
+      "żadna odpowiedź nie jest prawidłowa  "
+    ],
+    "answer": 3
+  },
+  {
+    "id": 90,
+    "question": "Locja to dział wiedzy zajmujący się:",
+    "image": null,
+    "options": [
+      "opisem statków w ruchu   ",
+      "opisem i oznakowaniem dróg wodnych  ",
+      "sygnalizacją statków w ruchu   ",
+      "opisem właściwości nautycznych statków  "
+    ],
+    "answer": 2
+  },
+  {
+    "id": 91,
+    "question": "Co oznacza żółty znak na moście:",
+    "image": null,
+    "options": [
+      "zalecenie przejścia w jednym kierunku   ",
+      "zalecenie przejścia w obu kierunkach  ",
+      "zakaz przejścia   ",
+      "most obrotowy  "
+    ],
+    "answer": 2
+  },
+  {
+    "id": 92,
+    "question": "Nabieżni k to:",
+    "image": null,
+    "options": [
+      "zakończenie pirsu w porcie   ",
+      "para staw (tylna wyższa, przednia niższa)  ",
+      "dwie boje ustawione w lini   ",
+      "miejsce w porcie, w którym możemy zacumować  "
+    ],
+    "answer": 2
+  },
+  {
+    "id": 93,
+    "question": "Farwater to:",
+    "image": null,
+    "options": [
+      "kanał spławny   ",
+      "ślad powstający za płynącym jachtem  ",
+      "szlak żeglowny   ",
+      "próg podwodny   "
+    ],
+    "answer": 3
+  },
+  {
+    "id": 94,
+    "question": "Płyną c w dół rzeki prawa strona szlaku to:",
+    "image": null,
+    "options": [
+      "brzeg po prawej burcie   ",
+      "brzeg po lewej burcie  ",
+      "stronę określają tablice   ",
+      "na rzekach nie ma szlaków  "
+    ],
+    "answer": 1
+  },
+  {
+    "id": 95,
+    "question": "Aby wejść na nabieżnik płyniemy:",
+    "image": null,
+    "options": [
+      "w kierunku niższego znaku   ",
+      "w kierunku wyższego znaku  ",
+      "pomiędzy znaki   ",
+      "musimy miną ć znaki prawą burtą  "
+    ],
+    "answer": 1
+  },
+  {
+    "id": 96,
+    "question": "Południk to:",
+    "image": null,
+    "options": [
+      "linia prosta pozioma   ",
+      "linia prosta pionowa  ",
+      "wycinek koła wielkiego przechodzący przez oś Ziemi   ",
+      "fragment równika  "
+    ],
+    "answer": 2
+  },
+  {
+    "id": 97,
+    "question": "Morze terytorialne RP to … od brzegu :",
+    "image": null,
+    "options": [
+      "3 mile morskie   ",
+      "6 mil morskich  ",
+      "12 mil morskich   ",
+      "20 mil morskich  "
+    ],
+    "answer": 3
+  },
+  {
+    "id": 98,
+    "question": "Zielone i czerwone światło przed śluzą oznacza:",
+    "image": null,
+    "options": [
+      "przygotowanie do śluzowania   ",
+      "zakaz śluzowania  ",
+      "można wpłynąć do śluzy   ",
+      "śluza nieczynna  "
+    ],
+    "answer": 1
+  },
+  {
+    "id": 99,
+    "question": "Umocniony brzeg faszyną, kamieniami lub betonem to:",
+    "image": null,
+    "options": [
+      "ostroga   ",
+      "główka  ",
+      "ploso   ",
+      "opaska  "
+    ],
+    "answer": 1
+  },
+  {
+    "id": 100,
+    "question": "Wypukły brzeg zakola t o:",
+    "image": null,
+    "options": [
+      "buchta   ",
+      "ploso  ",
+      "róg  ",
+      "ostroga  "
+    ],
+    "answer": 3
+  },
+  {
+    "id": 101,
+    "question": "Znak przedstawiony obok oznacza:",
+    "image": "img/q101.png",
+    "options": [
+      "zakaz włączania silnika spalinowego  ",
+      "zakaz używania silnika spalinowego  ",
+      "zakaz ruchu statków  o napędzie mechanicznym  ",
+      "zakaz używania silnika elektrycznego  "
+    ],
+    "answer": 3
+  },
+  {
+    "id": 102,
+    "question": "Znak przedstawiony obok o znacza:",
+    "image": "img/q102.png",
+    "options": [
+      "zakaz postoju na szerokości 40m (od znaku)  ",
+      "zakaz wpływania zestawów o długości większej niż 40m  ",
+      "zakaz przekraczania prędkości 40km/h  ",
+      "żadna odpowiedź nie jest prawidłowa  "
+    ],
+    "answer": 1
+  },
+  {
+    "id": 103,
+    "question": "Znak przedstawiony obok to:",
+    "image": "img/q103.png",
+    "options": [
+      "nakaz zatrzymania statku w warunkach określo nych przepisami  ",
+      "nakaz płynięcia prosto  ",
+      "nakaz zachowania szczególnej ostrożności  ",
+      "nakaz ruchu prawą stroną  "
+    ],
+    "answer": 3
+  },
+  {
+    "id": 104,
+    "question": "Znak przedstawiony obok to:",
+    "image": "img/q104.png",
+    "options": [
+      "znak pomiarowy  ",
+      "znak odosobnionego niebezpieczeństwa  ",
+      "znak specjalny  ",
+      "znak bezpiecznej wody  "
+    ],
+    "answer": 2
+  },
+  {
+    "id": 105,
+    "question": "Znak przedstawiony ob ok oznacza:",
+    "image": "img/q105.png",
+    "options": [
+      "ograniczenie szerokości kanału lub szlaku żeglownego do 45m  ",
+      "zakaz ruchu statków o długości kadłuba powyżej 45m  ",
+      "zakaz ruchu statków o szerokości powyżej 45m  ",
+      "żadna odpowiedź nie jest prawidłowa  "
+    ],
+    "answer": 1
+  },
+  {
+    "id": 106,
+    "question": "Znak przedstawiony obok to:",
+    "image": "img/q106.png",
+    "options": [
+      "koniec szla ku dla jachtów żaglowych   ",
+      "połączenie z drogą wodną uznaną za boczną drogę wodną  ",
+      "koniec obowiązywania zakazów, nakazów i ograniczeń   ",
+      "koniec zezwolenia na ruch  statków wiosłowych, żaglowych, rozwijających duże "
+    ],
+    "answer": 3
+  },
+  {
+    "id": 107,
+    "question": "Znak przedstawiony obok to:",
+    "image": "img/q107.png",
+    "options": [
+      "zakaz wpływania  ",
+      "znak odosobnionego niebezpieczeństwa    ",
+      "znak prawej strony szlaku żeglownego  ",
+      "znak bezpiecznej wody  "
+    ],
+    "answer": 4
+  },
+  {
+    "id": 108,
+    "question": "Znak przedstawiony obok to:",
+    "image": "img/q108.png",
+    "options": [
+      "zakaz wpływania podczas wysokiej fali   ",
+      "nakaz zwiększenia uwagi – miejsce występowania wysokiej fali  ",
+      "zakaz wytwarzania wysokiej fali  ",
+      "nakaz zwiększenia uwagi – miejsce występowania silnych prądów  "
+    ],
+    "answer": 3
+  },
+  {
+    "id": 109,
+    "question": "Znak przedstawiony obok oznacza zakaz:",
+    "image": "img/q109.png",
+    "options": [
+      "mijania   ",
+      "wyprzedzania  ",
+      "mijania i wyprzedania   ",
+      "zawracania  "
+    ],
+    "answer": 3
+  },
+  {
+    "id": 110,
+    "question": "Znak przedstawiony obo k oznacza:",
+    "image": "img/q110.png",
+    "options": [
+      "nakaz zawracania   ",
+      "zakaz mijania i wyprzedzania  ",
+      "zakaz wszelkiego wyprzedzania   ",
+      "zakaz płynięcia obok innych statków  "
+    ],
+    "answer": 3
+  },
+  {
+    "id": 111,
+    "question": "Znak przedstawiony obok to:",
+    "image": "img/q111.png",
+    "options": [
+      "kierunek obowiązywania zakazu, pod którym znak się znajduje   ",
+      "kierunek obowiązywania nakazu, pod któ rym znak się znajduje  ",
+      "nakaz płynięcia w kierunku wskazanym na znaku   ",
+      "kierunek przebiegu głównego szlaku  "
+    ],
+    "answer": 3
+  },
+  {
+    "id": 112,
+    "question": "Znak przedstawiony obok to:",
+    "image": "img/q112.png",
+    "options": [
+      "szlak biegnie blisko prawego brzegu (przy znaku)   ",
+      "wyjście z jeziora lub szerokiej drogi wodnej z prawej strony od znaku  ",
+      "zakaz przejścia   ",
+      "wyjście z jeziora lub szerokiej drogi wodnej z lewej strony od znaku  "
+    ],
+    "answer": 3
+  },
+  {
+    "id": 113,
+    "question": "Znak przedstawiony obok oznacza zakaz uprawiania:",
+    "image": "img/q113.png",
+    "options": [
+      "sportu i rekreacji   ",
+      "narciarstwa wodnego i  pływania na desce z żaglem   ",
+      "narciarstwa wodnego i holowania statków p owietrznych za statkami  ",
+      "narciarstwa wodnego i ruchu skuterów wodnych  "
+    ],
+    "answer": 3
+  },
+  {
+    "id": 114,
+    "question": "Znak przedstawiony obok oznacza zakaz:",
+    "image": "img/q114.png",
+    "options": [
+      "kotwiczenia i cumowania   ",
+      "używania ciężkich kotwic  ",
+      "kotwiczenia, wleczenia kotwicy, łańcucha, liny   ",
+      "żadna odpowiedź nie jest prawidłowa  ",
+      "cumowania do brzegu lub kotwiczenia   ",
+      "cumowania dużych statków  ",
+      "cumowania do brzegu   ",
+      "cumowania do polerów  "
+    ],
+    "answer": 3
+  },
+  {
+    "id": 116,
+    "question": "Znak przedstawiony obok oznacza:",
+    "image": "img/q116.png",
+    "options": [
+      "zezwolenie na uprawianie sportów wodnych  ",
+      "akwen przeznaczony na naukę nar ciarstwa wodnego  ",
+      "zezwolenie na uprawianie narciarstwa wodnego oraz holowanie statków  ",
+      "informuje, że w pobliżu znajdują się obiekty  służące do narciarstwa wodne go "
+    ],
+    "answer": 3
+  },
+  {
+    "id": 117,
+    "question": "Znak przedstawiony obok oznacza:",
+    "image": "img/q117.png",
+    "options": [
+      "akwen przeznaczony na imprezy  sportowe i rekreacyjne   ",
+      "ośrodek sportowy   ",
+      "zezwolenie na ruch żeglugowy statków sportowych i rekreacyjnych   ",
+      "żadna odpowiedź nie jest prawidłowa  "
+    ],
+    "answer": 3
+  },
+  {
+    "id": 118,
+    "question": "Znak przedstawiony obok to:",
+    "image": "img/q118.png",
+    "options": [
+      "wąskie przejście okresowo zamykane z powodu sieci rybackich   ",
+      "prom na uwięzi  ",
+      "jaz w  bliskiej odległości   ",
+      "żadna odpowiedź nie jest prawidłowa  "
+    ],
+    "answer": 3
+  },
+  {
+    "id": 119,
+    "question": "Znak przedstawiony obok to:",
+    "image": "img/q119.png",
+    "options": [
+      "zezwolenie przejścia w obydwu kierunkach   ",
+      "akwen zamknięty dla żeglugi  ",
+      "nakaz zwiększenia uwagi   ",
+      "zezwolenie przejścia w jednym kierunku  "
+    ],
+    "answer": 1
+  },
+  {
+    "id": 120,
+    "question": "Znak przedstawiony obok to:",
+    "image": "img/q120.png",
+    "options": [
+      "zezwolenie przejścia w obydwu kierunkach   ",
+      "informacja o skrzyżowaniu z drogą drugorzędną  ",
+      "nakaz zwiększenia uwagi przed skrzyżowaniem z drogą główną   ",
+      "zezwolenie przejścia w jednym kierunku  "
+    ],
+    "answer": 4
+  },
+  {
+    "id": 121,
+    "question": "Znak przedstawiony obok oznacza:",
+    "image": "img/q121.png",
+    "options": [
+      "miejsce postoju statków regularnej żeglugi   ",
+      "w pobliżu znajduje się pochylnia  ",
+      "prom na uwięzi   ",
+      "miejsce postoju holowników  "
+    ],
+    "answer": 3
+  },
+  {
+    "id": 122,
+    "question": "Znak przedstawiony obok oznacza:",
+    "image": "img/q122.png",
+    "options": [
+      "miejsce postoju holowników   ",
+      "prom na uwięzi  ",
+      "prom przemieszczający się swobodnie    ",
+      "akwen tylko dla żeglugi zawodowej  "
+    ],
+    "answer": 3
+  },
+  {
+    "id": 123,
+    "question": "Znak przedstawiony obok oznacza:",
+    "image": "img/q123.png",
+    "options": [
+      "nakaz prowadzenia nasłuchu na 12 kanale   ",
+      "nakaz nieprzekraczania prędkości 12 km/h  ",
+      "nakaz ograniczenia długości zestawów holowanych do 12 m   ",
+      "nakaz nieprzekraczania prędkości 12 węzłów  ",
+      "prawa granica szlaku żeglownego  ",
+      "lewa granica szlaku żeglownego   ",
+      "zakaz wpływania  ",
+      "rozgałęzienie szlaków    "
+    ],
+    "answer": 2
+  },
+  {
+    "id": 125,
+    "question": "Znak przedstawiony obok to (na śródlądowych drogach wodnych):",
+    "image": "img/q125.png",
+    "options": [
+      "prawa granica szlaku żeglownego  ",
+      "lewa granica szlaku żeglownego   ",
+      "zakaz wpływania  ",
+      "rozgałęzienie szlaków  "
+    ],
+    "answer": 2
+  },
+  {
+    "id": 126,
+    "question": "Znak przedstawiony obok to:",
+    "image": "img/q126.png",
+    "options": [
+      "rozgałęzienie szlaku  ",
+      "miejsce niebezpieczne dla żeglugi   ",
+      "szlak żeglowny przechodzi blisko brzegu  ",
+      "znak specjalny  "
+    ],
+    "answer": 1
+  },
+  {
+    "id": 127,
+    "question": "Znak przedstawiony obok to:",
+    "image": "img/q127.png",
+    "options": [
+      "prawa granica szlaku żeglownego   ",
+      "nakaz zachowania szczegól nej ostrożności   ",
+      "zakaz wpływania  ",
+      "ograniczenie głębokości  "
+    ],
+    "answer": 4
+  },
+  {
+    "id": 128,
+    "question": "Znak przedstawiony obok to:",
+    "image": "img/q128.png",
+    "options": [
+      "połączenie z drogą uznaną za główną drogę wodną  ",
+      "połączenie z drogą uznaną za boczną drogę wodną   ",
+      "koniec obowiązywania zakazu, nakazu, ograniczenia  ",
+      "miejsce postoju dla s tatków  "
+    ],
+    "answer": 1
+  },
+  {
+    "id": 129,
+    "question": "Znak przedstawiony obok to:",
+    "image": "img/q129.png",
+    "options": [
+      "północna pława kardynalna  ",
+      "południowa pława kardynalna   ",
+      "zachodnia pława kardynalna  ",
+      "wschodnia pława kardynalna  "
+    ],
+    "answer": 1
+  },
+  {
+    "id": 130,
+    "question": "Znak przedstawiony obok to:",
+    "image": "img/q130.png",
+    "options": [
+      "północna pława kardynalna  ",
+      "południowa pława kardynalna   ",
+      "zachodnia pława kardyna lna ",
+      "wschodnia pława kardynalna  "
+    ],
+    "answer": 4
+  },
+  {
+    "id": 131,
+    "question": "Znak przedstawiony obok to:",
+    "image": "img/q131.png",
+    "options": [
+      "północna pława kardynalna  ",
+      "południowa pława kardynalna   ",
+      "zachodnia pława kardynalna  ",
+      "wschodnia pława kardynalna  "
+    ],
+    "answer": 3
+  },
+  {
+    "id": 132,
+    "question": "Znak przedstawiony obok to:",
+    "image": "img/q132.png",
+    "options": [
+      "północna pława kardynalna  ",
+      "południowa pława kardynalna   ",
+      "zachodnia pława kardynalna  ",
+      "wschodnia pława kardynalna  "
+    ],
+    "answer": 2
+  },
+  {
+    "id": 133,
+    "question": "Wybierz przebieg szlaku wodnego (drogę jachtu) od punktu X do punktu Y,  \nuwzględniając położenie podanych kierunków geograficznych:",
+    "image": "img/q133.png",
+    "options": [],
+    "answer": 2
+  },
+  {
+    "id": 134,
+    "question": "Wybierz przebieg szlaku wodnego (drogę jachtu) od  punktu X do punktu Y,  \nuwzględniając położenie podanych kierunków geograficznych : \n \n \n \n \n \n \n \n \n  \n\n \n \n17 \n 135. Wybierz przebieg szlaku wodnego (drogę jachtu) od punktu X do punktu Y,  \nuwzględniając położenie podanych kierunków geograficznych:",
+    "image": "img/q134.png",
+    "options": [],
+    "answer": 4
+  },
+  {
+    "id": 136,
+    "question": "Skala Beauforta określa siłę wiatru w zakresie:",
+    "image": null,
+    "options": [
+      "od 0°B  do 9 °B  ",
+      "od 0°B do 12°B   ",
+      "od 1°B do 12°B  ",
+      "od 1°B do 9°B  "
+    ],
+    "answer": 2
+  },
+  {
+    "id": 137,
+    "question": "Pogorszenie pogody zwiastuje:",
+    "image": null,
+    "options": [
+      "mgła opadająca nad ranem  ",
+      "utrzymywanie lub podnoszenie się ciśnienia   ",
+      "systematyczny spadek ciśnienia  ",
+      "wiatr tężejący w południe, a c ichnący nad ranem i wieczorem  "
+    ],
+    "answer": 3
+  },
+  {
+    "id": 138,
+    "question": "Cumulonimbusowi towarzyszą:",
+    "image": null,
+    "options": [
+      "spadek siły wiatru i rozpogodzenie  ",
+      "ustabilizowanie kierunku i siły wiatru   ",
+      "gwałtowny wzrost siły wiatru z zachmurzeniem  ",
+      "wzrost temperatury wraz z stopniowym wzrostem siły wiatru  "
+    ],
+    "answer": 3
+  },
+  {
+    "id": 139,
+    "question": "Pojawie nie się chmury Cumulonimbus zapowiada:",
+    "image": null,
+    "options": [
+      "długotrwały deszcz  ",
+      "piękną pogodę   ",
+      "burze i porywiste wiatry  ",
+      "bezwietrzną pogodę z mżawką  "
+    ],
+    "answer": 3
+  },
+  {
+    "id": 140,
+    "question": "Określenie w komunikacie meteo „Ostrzeżenie przed silnym wiatrem” dotyczy wiatru  \no sile:",
+    "image": null,
+    "options": [
+      "2°B ",
+      "6°B  ",
+      "10°B  ",
+      "12°B  ",
+      "cirrus  ",
+      "altocumulus   ",
+      "cumulonimbus  ",
+      "nimbostratus  "
+    ],
+    "answer": 2
+  },
+  {
+    "id": 142,
+    "question": "Flauta (sztil) to określenie:",
+    "image": null,
+    "options": [
+      "fali przybojowej  ",
+      "zupełnego brak wiatru   ",
+      "mgły porannej  ",
+      "bryzy dziennej  "
+    ],
+    "answer": 2
+  },
+  {
+    "id": 143,
+    "question": "Podczas bryzy nocnej wiatr wieje:",
+    "image": null,
+    "options": [
+      "od lądu w kierunku morza  ",
+      "od morza w kierunku lądu   ",
+      "wzdłuż brzegu  ",
+      "w kierunku księżyca  "
+    ],
+    "answer": 1
+  },
+  {
+    "id": 144,
+    "question": "Podczas bryzy dziennej wiatr wieje:",
+    "image": null,
+    "options": [
+      "od lądu w kierunku morza  ",
+      "od morza w kierunku lądu   ",
+      "wzdłuż brzegu  ",
+      "w kierunku księżyca  "
+    ],
+    "answer": 2
+  },
+  {
+    "id": 145,
+    "question": "Gdzie należy szukać komunikatów meteo pływając po po lskich jeziorach:",
+    "image": null,
+    "options": [
+      "nasłuchując Radio - Gdynia na UKF   ",
+      "w radiu - najczęściej po wiadomościach, w Internecie, w ",
+      "na odbiorniku NAVTEX w który powinien być wyposażony jacht   ",
+      "w miesięczniku „Żagle”  "
+    ],
+    "answer": 2
+  },
+  {
+    "id": 146,
+    "question": "Ciśnienie 1013 hPa jest ciśnieniem pa nującym:",
+    "image": null,
+    "options": [
+      "w wyżu   ",
+      "w niżu  ",
+      "ciśnienie normalne   ",
+      "żadna odpowiedź nie jest prawidłowa  "
+    ],
+    "answer": 3
+  },
+  {
+    "id": 147,
+    "question": "Na jachcie zarejestrowanym powinny się znajdować środki ratunkowe w ilości:",
+    "image": null,
+    "options": [
+      "takiej jak liczba członków załogi   ",
+      "takiej jak liczba członków załogi plus jeden  ",
+      "takiej jak t o określono w dowodzie rejestracyjnym   ",
+      "takiej jak ilość członków załogi nie umiejących pływać  "
+    ],
+    "answer": 3
+  },
+  {
+    "id": 148,
+    "question": "Na jachcie niezarejestrowanym powinny się znajdować środki ratunkowe w ilości:",
+    "image": null,
+    "options": [
+      "co najmniej takiej jak liczba członków załogi  ",
+      "takiej jak liczba członków załogi p lus jeden   ",
+      "takiej jak to określono w dowodzie rejestracyjnym  ",
+      "takiej jak liczba członków załogi nie umiejących pływać  "
+    ],
+    "answer": 1
+  },
+  {
+    "id": 149,
+    "question": "Kamizelka asekuracyjna:",
+    "image": null,
+    "options": [
+      "zabezpiecza przed utonięciem w każdych warunkach   ",
+      "utrzymuje człowieka na powierzchni i podtrzymuje nieprzytomnemu  głowę na ",
+      "utrzymuje człowieka na powierzchni nie zapewniając podtrzymania głowy na ",
+      "zapobiega wypadnięciu człowieka za burtę  "
+    ],
+    "answer": 3
+  },
+  {
+    "id": 150,
+    "question": "W kamizelkach ratunkowych na jachcie muszą cały czas przebywać:",
+    "image": null,
+    "options": [
+      "wszyscy członkowie załogi  ",
+      "tylko osoby ni epełnoletnie   ",
+      "tylko osoby niepełnosprawne i niepełnoletnie  ",
+      "tylko osoby nie umiejące pływać   "
+    ],
+    "answer": 4
+  },
+  {
+    "id": 151,
+    "question": "Zasadę „jedna ręka dla jachtu druga dla siebie”, stosujemy:",
+    "image": null,
+    "options": [
+      "podczas trudnych warunków meteorologicznych  ",
+      "na jachtach mieczowych bez sztormrelingów   ",
+      "podczas ws zelkich prac na pokładzie jachtu  ",
+      "przez niedoświadczonych żeglarzy  "
+    ],
+    "answer": 3
+  },
+  {
+    "id": 152,
+    "question": "Za pomoc człowiekowi który wypadł za burtę odpowiedzialny jest:",
+    "image": null,
+    "options": [
+      "najbliższa placówka WOPR  ",
+      "prowadzący jacht   ",
+      "prowadzący inny  jacht znajdujący się najbliżej jachtu z którego wypadł czło wiek  ",
+      "jedynie lekarz  "
+    ],
+    "answer": 2
+  },
+  {
+    "id": 153,
+    "question": "Po ogłoszeniu alarmu opuszczenia jachtu pas ratunkowy należy założyć:",
+    "image": null,
+    "options": [
+      "pod pokładem  ",
+      "na pokładzie   ",
+      "w wodzie  ",
+      "w dowolnym miejscu ale jak najszybciej  "
+    ],
+    "answer": 2
+  },
+  {
+    "id": 154,
+    "question": "Zmniejszenie utraty ciepła organizmu człowieka przebywającego w wodzie uzyskuj e się przez:",
+    "image": null,
+    "options": [
+      "podawanie ciepłych napoi   ",
+      "podciągnięcie kolan pod brodę i objęcie ich  ",
+      "masowanie ud i ramion w określonych odstępach czasu   ",
+      "wykonywać jak najwięcej ruchów  "
+    ],
+    "answer": 2
+  },
+  {
+    "id": 155,
+    "question": "Co to jest hipotermia:",
+    "image": null,
+    "options": [
+      "wychłodzenie organizmu   ",
+      "przegrzanie organizmu  ",
+      "uodpornienie orga nizmu na niskie temperatury   ",
+      "uodpornienie organizmu na wysokie temperatury  "
+    ],
+    "answer": 1
+  },
+  {
+    "id": 156,
+    "question": "W przypadku zapalenia się silnika przyczepnego:",
+    "image": null,
+    "options": [
+      "gasimy go wodą   ",
+      "natychmiast opuszczamy jacht  ",
+      "wzywamy straż i na dziobie oczekujemy na przybycie pomocy   ",
+      "gasimy go kocem gaśni czym lub zwykłym, mokrym kocem albo mokrą "
+    ],
+    "answer": 4
+  },
+  {
+    "id": 157,
+    "question": "Co to jest SAR?",
+    "image": null,
+    "options": [
+      "służba alarmowa na akwenach śródlądowych  ",
+      "służba alarmowa i ratownictwa na akwenach śródlądowych   ",
+      "morska służba poszukiwania i ratownictwa  ",
+      "morska i śródlądowa służba alarmowa i rato wnicza  "
+    ],
+    "answer": 3
+  },
+  {
+    "id": 158,
+    "question": "Ogólnoeuropejski numer alarmowy to:",
+    "image": null,
+    "options": [
+      "110 ",
+      "998  ",
+      "112 ",
+      "102 ",
+      "601 111 111  ",
+      "601 100 100   ",
+      "501 111 111  ",
+      "501 100 100   "
+    ],
+    "answer": 3
+  },
+  {
+    "id": 160,
+    "question": "Człowiek któremu rzucono koło ratunkowe powinien:",
+    "image": null,
+    "options": [
+      "położyć się na nim  ",
+      "założyć je przez głowę pod ramiona   ",
+      "trzymać się go dwiema rękami  ",
+      "usiąść na kole  "
+    ],
+    "answer": 2
+  },
+  {
+    "id": 161,
+    "question": "W wypadku, gdy człowiek wypadł za burtę należy:",
+    "image": null,
+    "options": [
+      "skoczyć za nim w celu asekuracji  ",
+      "wzywać pomocy   ",
+      "rzucić koło ratunkowe i wykonać manewr „człowiek za burtą”  ",
+      "rzucić kotwicę  "
+    ],
+    "answer": 3
+  },
+  {
+    "id": 162,
+    "question": "Jeden cykl RKO (Resuscytacja Krą żeniowo -Oddechowa) to:",
+    "image": null,
+    "options": [
+      "to:   ",
+      "20 ucisków z częstotliwością 60 na min. i 2 wdmuchnięcia  ",
+      "30 ucisków z częstotliwością 100 na min. i 2 wdmuchnięcia   ",
+      "20 ucisków z częstotliwością 100 na min. i 2 wdmuchnięcia  ",
+      "15 ucisków z częstotliwością 600 na min. i 2 wdmuchnięcia  "
+    ],
+    "answer": 2
+  },
+  {
+    "id": 163,
+    "question": "Udrażnianie dróg oddechowych odbywa się poprzez:",
+    "image": null,
+    "options": [
+      "odchylenie głowy do tyłu i uniesienie żuchwy  ",
+      "ułożenie w pozycji bezpiecznej   ",
+      "ułożenie ratowanego na brzuchu  ",
+      "uciskanie klatki ratowanego  "
+    ],
+    "answer": 1
+  },
+  {
+    "id": 164,
+    "question": "W przypadku urazu kończyny górnej z prawdopodobnym złamani em \nprzedramienia:",
+    "image": null,
+    "options": [
+      "wezwiesz tylko pomoc medyczną  ",
+      "usztywnisz dwa sąsiednie stawy na temblaku   ",
+      "założysz jałowy opatrunek  ",
+      "posmarujesz kończynę maścią na stłuczenia   "
+    ],
+    "answer": 2
+  },
+  {
+    "id": 165,
+    "question": "Widzisz rakiety wyrzucające czerwone gwiazdy,  \nwystrzeliwane w krótkich odstępach czasu , co to oznacza:",
+    "image": null,
+    "options": [
+      "fajerwerki   ",
+      "sygnał wzywania pomocy  ",
+      "ćwiczenia wojskowe   ",
+      "nie zbliżajcie się do nas  "
+    ],
+    "answer": 2
+  },
+  {
+    "id": 166,
+    "question": "Widzisz na pobliskim jachcie człowieka zataczającego  \nkręgi ręcznikiem, to oznacza:",
+    "image": null,
+    "options": [
+      "nic nie oznacza   ",
+      "sygnał wzywania pomocy  ",
+      "mam nurka pod wodą, omijaj cie nas szeroko   ",
+      "nie zbliżajcie się do nas  "
+    ],
+    "answer": 2
+  },
+  {
+    "id": 167,
+    "question": "Jakie natychmiastowe działania po wywrotce jachtu podejmiesz w pierwszej kolejności:",
+    "image": null,
+    "options": [
+      "zabezpieczysz sprzęt przed zdryfowaniem  ",
+      "policzysz załogę i założysz pasy ratunkowe   ",
+      "spróbujesz postawić jacht  ",
+      "natychmiast  popłyniesz z załogą do brzegu  ",
+      "przebywać w kabinie z przygotowanymi do założenia kamizelkami  ",
+      "przebywać w kokpicie z założonymi kamizelkami ratunkowymi   ",
+      "przebywać w ka binie z założonymi kamizelkami ratunkowymi  ",
+      "przebywać w kokpicie z przygotowanymi do założenia kamizelkami ratunkowymi  "
+    ],
+    "answer": 2
+  },
+  {
+    "id": 169,
+    "question": "Jeśli na jachcie wybuchnie pożar to posiadając dwie gaśnice:",
+    "image": null,
+    "options": [
+      "gasimy pożar jedną  ",
+      "gasimy pożar jedną trzymając drugą w pogotowiu   ",
+      "gasimy pożar używając obie naraz  ",
+      "żadna odpowiedź nie jest prawidłowa)  "
+    ],
+    "answer": 3
+  },
+  {
+    "id": 170,
+    "question": "Seria podwójnych krótkich dźwięków •• •• •• •• nadawana przez statek oznacza:",
+    "image": null,
+    "options": [
+      "„człowiek za burtą”  ",
+      "uwaga   ",
+      "nie mogę manewrować  ",
+      "moje maszyny pracują wstecz  "
+    ],
+    "answer": 1
+  },
+  {
+    "id": 171,
+    "question": "Kolor światła statku stojącego na  kotwicy:",
+    "image": null,
+    "options": [
+      "czerwony  ",
+      "biały   ",
+      "żółty  ",
+      "zielony  "
+    ],
+    "answer": 2
+  },
+  {
+    "id": 172,
+    "question": "Wchodząc do portu - musisz ustąpić statkowi wychodzącemu z portu:",
+    "image": null,
+    "options": [
+      "tak  ",
+      "nie ",
+      "oba ustępują   ",
+      "nie regulują przepisy  "
+    ],
+    "answer": 1
+  },
+  {
+    "id": 173,
+    "question": "Podaj długość małego statku, który nie może przewozić więcej niż 12 pasażerów:",
+    "image": null,
+    "options": [
+      "25 m   ",
+      "30 m  ",
+      "18 m   ",
+      "50 m  "
+    ],
+    "answer": 3
+  },
+  {
+    "id": 174,
+    "question": "Statek, który utracił manewrowość pokazuje w dzień dodatkowo:",
+    "image": null,
+    "options": [
+      "jedną czarną kulę   ",
+      "dwie czarne kule  ",
+      "trzy czarne kule   ",
+      "cztery czarne kule  "
+    ],
+    "answer": 2
+  },
+  {
+    "id": 175,
+    "question": "Statek pokazujący dodatkowo dwie czarne kule w pionie,  \n a pomiędzy nimi czarny podwójny stożek, to:",
+    "image": null,
+    "options": [
+      "zajęty połowem  ",
+      "zajęty holowaniem   ",
+      "o ograniczonej zdolności manewrowej  ",
+      "nie odpowiadający za swoje ruchy  "
+    ],
+    "answer": 3
+  },
+  {
+    "id": 176,
+    "question": "Patent sternika motorowodnego może otrzymać osoba, która ukończyła minimum:",
+    "image": null,
+    "options": [
+      "12 lat  ",
+      "14 lat   ",
+      "16 lat  ",
+      "18 lat  ",
+      "od strony kuli  ",
+      "od strony rombów   ",
+      "z każdej strony  ",
+      "nie można ominąć tego statku  "
+    ],
+    "answer": 2
+  },
+  {
+    "id": 178,
+    "question": "Największe polskie jezioro to:",
+    "image": null,
+    "options": [
+      "Śniardwy  ",
+      "Dąbie   ",
+      "Mamry  ",
+      "Niegocin  "
+    ],
+    "answer": 1
+  },
+  {
+    "id": 179,
+    "question": "Co to jest system IALA :",
+    "image": null,
+    "options": [
+      "międzynarodowy kod sygnałowy  ",
+      "system oznakowania nawigacyjnego   ",
+      "system ostrzegania meteorologicznego  ",
+      "system oprogramowania ploterów    "
+    ],
+    "answer": 2
+  },
+  {
+    "id": 180,
+    "question": "Ploso to:",
+    "image": null,
+    "options": [
+      "element jazu   ",
+      "najgłębsze miejsce w zakolu rzeki  ",
+      "wypukły brzeg rzeki   ",
+      "inaczej ostroga  "
+    ],
+    "answer": 2
+  },
+  {
+    "id": 181,
+    "question": "GPS pokazuje:",
+    "image": null,
+    "options": [
+      "kurs kompasowy   ",
+      "kurs rzeczywisty  ",
+      "kąt drogi nad dnem   ",
+      "północ  "
+    ],
+    "answer": 3
+  },
+  {
+    "id": 182,
+    "question": "Katamaran to jacht, który posiada:",
+    "image": null,
+    "options": [
+      "jeden kadłub   ",
+      "dwa kadłuby  ",
+      "trzy kadłuby   ",
+      "cztery kadłuby  "
+    ],
+    "answer": 2
+  },
+  {
+    "id": 183,
+    "question": "Do gaszenia urządzeń elektrycznych użyjesz:",
+    "image": null,
+    "options": [
+      "gaśnicę pianową   ",
+      "gaśnicę proszkową  ",
+      "koc zamoczony w wodzie   ",
+      "wodę  "
+    ],
+    "answer": 2
+  },
+  {
+    "id": 184,
+    "question": "Sygnał wezwania pomocy na morzu to:",
+    "image": null,
+    "options": [
+      "Mayday – Mayday - Mayday   ",
+      "Pan Pan – Pan Pan – Pan Pan  ",
+      "Securite – Securite - Securite   ",
+      "S.O.S. – S.O.S. – S.O.S.  "
+    ],
+    "answer": 1
+  },
+  {
+    "id": 185,
+    "question": "Co to jest pelengator:",
+    "image": null,
+    "options": [
+      "liniał równoległy   ",
+      "przenośnik nawigacyjny  ",
+      "trójkąt na wigacyjny   ",
+      "namiernik   ",
+      "elektrycznego pomiaru prędkości   ",
+      "ręcznego pomiaru prędkości  ",
+      "mechanicznego pomiaru prędkości   ",
+      "do ręcznego pomiaru głębokości  "
+    ],
+    "answer": 4
+  },
+  {
+    "id": 187,
+    "question": "Płycizna między plosami to:",
+    "image": null,
+    "options": [
+      "rynna   ",
+      "przemiał  ",
+      "kępa   ",
+      "przymulisko  "
+    ],
+    "answer": 2
+  },
+  {
+    "id": 188,
+    "question": "Rzeka „dzika” to:",
+    "image": null,
+    "options": [
+      "starorzecze   ",
+      "rzeka naturalna  ",
+      "rzeka wysychająca   ",
+      "rzeka uregulowana  "
+    ],
+    "answer": 2
+  },
+  {
+    "id": 189,
+    "question": "Światło przerywane to światło, w którym:",
+    "image": null,
+    "options": [
+      "czas zaciemnienia jest dłuższy od czasu świecenia   ",
+      "czas zaciemnienia jest krótszy od czasu świecenia  ",
+      "czas zaciemnienia jest tak i sam jak czasu świecenia   ",
+      "czas zaciemnienia jest zmienny i nieprzewidywalny  "
+    ],
+    "answer": 2
+  },
+  {
+    "id": 190,
+    "question": "Silnik wysokoprężny odstawisz:",
+    "image": null,
+    "options": [
+      "na dużych obrotach   ",
+      "na minimalnych obrotach biegu jałowego  ",
+      "na średnich obrotach   ",
+      "na maksymalnych obrotach  "
+    ],
+    "answer": 2
+  },
+  {
+    "id": 191,
+    "question": "Statek nadał sygnał dźwiękówy • − • • :",
+    "image": null,
+    "options": [
+      "zatrzymajcie natychmiast swój statek   ",
+      "zmieniam mój kurs w prawo  ",
+      "nie mogę manewrować   ",
+      "„człowiek za burtą”  "
+    ],
+    "answer": 1
+  },
+  {
+    "id": 192,
+    "question": "Jak postąpisz przy omdleniu:",
+    "image": null,
+    "options": [
+      "wyniesiesz ratowanego na świeże powietrze   ",
+      "zaczniesz RKO  ",
+      "ułożysz ratowanego w pozycji bezpiecznej w miejscu gdzie omdl ał  ",
+      "oblejesz ratowanego zimną wodą  "
+    ],
+    "answer": 1
+  },
+  {
+    "id": 193,
+    "question": "Jak unieruchomisz nogę na temblaku  \nprzy złamanej kości podudzia:",
+    "image": null,
+    "options": [
+      "unieruchomisz sąsiednie stawy (kolanowy i skokowy)   ",
+      "unieruchomisz tylko staw skokowy  ",
+      "unieruchomisz tylko staw kolanowy   ",
+      "owiniesz kość podudzia mocno ją z aciskając  "
+    ],
+    "answer": 1
+  },
+  {
+    "id": 194,
+    "question": "Sektor świecenia światła burtowego wynosi:",
+    "image": null,
+    "options": [
+      "205 0  b) 135 0 ",
+      "112,5 0 ",
+      "117,5 0 ",
+      "statek poławiający   ",
+      "statek pilotowy  ",
+      "statek na mieliźnie   ",
+      "holownik    "
+    ],
+    "answer": 3
+  },
+  {
+    "id": 196,
+    "question": "Światł o izofazowe to św iatło w którym :",
+    "image": null,
+    "options": [
+      "czas świecenia równa się czasowi zaciemnienia   ",
+      "czas zaciemnienia jest dłuższy od czasu świecenia  ",
+      "czas zaciemnienia jest krótszy od czasu świecenia   ",
+      "czas świecenia i zaciemnienia zmienia się nieregularnie  "
+    ],
+    "answer": 1
+  },
+  {
+    "id": 197,
+    "question": "Światło  przerywane to światło w kt órym :",
+    "image": null,
+    "options": [
+      "czas świecenia równa się czasowi zaciemnienia   ",
+      "czas zaciemnienia jest dłuższy od czasu świecenia  ",
+      "czas zaciemnienia jest krótszy od czasu świecenia   ",
+      "czas świecenia i zaciemnienia zmienia się nieregularnie  "
+    ],
+    "answer": 3
+  },
+  {
+    "id": 198,
+    "question": "Linia łącząca miejsca o ty ch samych wartości ach ciśnienia :",
+    "image": null,
+    "options": [
+      "izoterma   ",
+      "izobata  ",
+      "izobara   ",
+      "izogona  "
+    ],
+    "answer": 3
+  },
+  {
+    "id": 199,
+    "question": "Wiatr o sile 50 węzłów, to w skali Beauforta :",
+    "image": null,
+    "options": [
+      "7 B (bardzo silny wiatr)   ",
+      "8 B (sztorm)  ",
+      "9 B (silny sztorm)   ",
+      "10 B (bardzo silny sztorm)  "
+    ],
+    "answer": 4
+  },
+  {
+    "id": 200,
+    "question": "Aneroid, baro graf – to urządzenia do pomiaru :",
+    "image": null,
+    "options": [
+      "temperatury   ",
+      "ciśnienia  ",
+      "wilgotności   ",
+      "opadów  "
+    ],
+    "answer": 2
+  },
+  {
+    "id": 201,
+    "question": "Kompas mokry posiada kociołek :",
+    "image": null,
+    "options": [
+      "niemagnetyczny   ",
+      "namagnesowany  ",
+      "nie ma to znaczenia   ",
+      "kompas mokry nie posiada kociołka  "
+    ],
+    "answer": 1
+  },
+  {
+    "id": 202,
+    "question": "Drewniane podłogi używane na jachtach to:",
+    "image": null,
+    "options": [
+      "buchty   ",
+      "gretingi  ",
+      "bojrepy   ",
+      "szkentle  "
+    ],
+    "answer": 2
+  },
+  {
+    "id": 203,
+    "question": "Dziobowa część kadłuba to:",
+    "image": null,
+    "options": [
+      "kokpit   ",
+      "forpik ",
+      "achterpik   ",
+      "bakista    ",
+      "aby wiatr wiał od dziobu   ",
+      "aby wiatr wiał od rufy  ",
+      "stań w dryfie   ",
+      "kurs nie ma znaczenia  "
+    ],
+    "answer": 2
+  },
+  {
+    "id": 205,
+    "question": "Jeśli pali się na dziobie przejdź na kurs:",
+    "image": null,
+    "options": [
+      "aby wiatr wiał od dziobu   ",
+      "aby wiatr wiał od rufy  ",
+      "stań w dryfie   ",
+      "kurs nie ma znaczenia  "
+    ],
+    "answer": 2
+  },
+  {
+    "id": 206,
+    "question": "Gdy załogant wypadł z jachtu motorowego z lewej burty należy:",
+    "image": null,
+    "options": [
+      "natychmiast skręcić w prawo   ",
+      "natychmiast skręcić w lewo  ",
+      "natychmiast dać całą wstecz   ",
+      "natychmiast dać całą naprzód  "
+    ],
+    "answer": 2
+  },
+  {
+    "id": 207,
+    "question": "Gdy załogant wypadł z jachtu motorowego z prawe j burty należy:",
+    "image": null,
+    "options": [
+      "natychmiast skręcić w prawo   ",
+      "natychmiast skręcić w lewo  ",
+      "natychmiast dać całą wstecz   ",
+      "natychmiast dać całą naprzód  "
+    ],
+    "answer": 1
+  },
+  {
+    "id": 208,
+    "question": "Na morzu przed sztormem najpierw:",
+    "image": null,
+    "options": [
+      "wepniesz sztormliny (life liny)   ",
+      "sklarujesz kambuz  ",
+      "zabezpieczysz mapy   ",
+      "zwodujesz tratwę  "
+    ],
+    "answer": 1
+  },
+  {
+    "id": 209,
+    "question": "Czy kamizelka asekuracyjna zapewnia odwrócenie człowieka w wodzie twarzą do góry:",
+    "image": null,
+    "options": [
+      "tak ",
+      "nie – brak kołnierza   ",
+      "zależy od płci człowieka  ",
+      "zależy od wagi człowieka  "
+    ],
+    "answer": 2
+  },
+  {
+    "id": 210,
+    "question": "Czy osoby uratowane na morzu zobowiązane są do zapłaty wynagrodzenia ratującym:",
+    "image": null,
+    "options": [
+      "tak  ",
+      "nie ",
+      "zależy  od umowy   ",
+      "zależy od wieku osoby ratowanej  "
+    ],
+    "answer": 2
+  },
+  {
+    "id": 211,
+    "question": "Ćwiczebny alarm „człowiek za burtą” powinien być przeprowadzony na jachcie:",
+    "image": null,
+    "options": [
+      "w ciągu 6h od opuszczenia portu   ",
+      "w ciągu 12h od opuszczenia portu  ",
+      "w ciągu 18h od opuszczenia portu   ",
+      "w ciągu 24h od opuszczenia portu    "
+    ],
+    "answer": 4
+  },
+  {
+    "id": 212,
+    "question": "W jakim przypadku dozwolone jest odstąpienie od przepisów żeglugowych:",
+    "image": null,
+    "options": [
+      "gdy jesteś poza torem wodnym  ",
+      "gdy istnieje bezpośrednie niebezpieczeństwo   ",
+      "gdy płyniesz rzeką  ",
+      "gdy prowadzący jacht jest pod pokładem  "
+    ],
+    "answer": 2
+  },
+  {
+    "id": 213,
+    "question": "Widzisz w dzień statek pokazujący dwa czarne stożk i połączone  \nwierzchołkami,  jest to:",
+    "image": null,
+    "options": [
+      "statek zajęty połowem   ",
+      "statek mający nurka pod wodą  ",
+      "statek holowany   ",
+      "statek leżący w dryfie  "
+    ],
+    "answer": 1
+  },
+  {
+    "id": 214,
+    "question": "Po uruchomieniu i rozgrzaniu silnika wrzucasz bieg:",
+    "image": null,
+    "options": [
+      "na małych obrotach   ",
+      "na średnich obrotach  ",
+      "na dużych obrotach   ",
+      "na maksymal nych obrotach  "
+    ],
+    "answer": 1
+  },
+  {
+    "id": 215,
+    "question": "Znak przedstawiony obok to:",
+    "image": "img/q215.png",
+    "options": [
+      "nakaz zatrzymania   ",
+      "nakaz zachowania szczególnej ostrożności  ",
+      "zakaz wpływania   ",
+      "ograniczenie głębokości  "
+    ],
+    "answer": 1
+  },
+  {
+    "id": 216,
+    "question": "Znak przedstawiony obok to:",
+    "image": "img/q216.png",
+    "options": [
+      "rozgałęzienie szlaku   ",
+      "miejsce niebezpieczne na środku szlaku  ",
+      "zakaz wpływania   ",
+      "wyjście ze szlaku wodnego  "
+    ],
+    "answer": 2
+  },
+  {
+    "id": 217,
+    "question": "Zna k przedstawiony obok to:",
+    "image": null,
+    "options": [
+      "znak odosobnionego niebezpieczeństwa   ",
+      "znak specjalny  ",
+      "znak kardynalny południowy   ",
+      "znak kardynalny północny  "
+    ],
+    "answer": 2
+  },
+  {
+    "id": 218,
+    "question": "Ostrzeżenie przed nagłym zjawiskiem meteorologicznym wskazuje żółte światło rytmiczne  \no częstotliwości:   \na. ok. 30 błysków na minutę  \nb. ok. 60 błysków na minutę   \nc. ok. 90 błysków na minutę  \nd. ok. 180 błysków na minutę",
+    "image": null,
+    "options": [],
+    "answer": 3
+  },
+  {
+    "id": 219,
+    "question": "Chmury piętra wysokiego to:   \na. altostratus, cumulus  \nb. cirrus, cirrostratus, cirrocumulus   \nc. stratocumulus, altocumulus  \nd. cumulonimbus, cumulus",
+    "image": null,
+    "options": [],
+    "answer": 2
+  },
+  {
+    "id": 220,
+    "question": "Wiatr o sile 5 węzłów, ile to w skali Beauforta:",
+    "image": null,
+    "options": [
+      "10 ",
+      "20 ",
+      "30 ",
+      "40 "
+    ],
+    "answer": 2
+  },
+  {
+    "id": 221,
+    "question": "Uchwyt na nadbudówce jachtu to:",
+    "image": null,
+    "options": [
+      "kokpit   ",
+      "handreling  ",
+      "odbojnica   ",
+      "greting  ",
+      "achterpik   ",
+      "forpik  ",
+      "kokpit   ",
+      "stępka  "
+    ],
+    "answer": 2
+  },
+  {
+    "id": 223,
+    "question": "Dziobowa część kadłuba to:",
+    "image": null,
+    "options": [
+      "achterpik   ",
+      "forpik  ",
+      "kokpit   ",
+      "stępk a "
+    ],
+    "answer": 2
+  },
+  {
+    "id": 224,
+    "question": "Na morzu widzisz w nocy statek pokazujący dodatkowo dwa światła: czer wone nad białym.  \nJest o statek",
+    "image": null,
+    "options": [
+      "zajęty połowem  ",
+      "pełniący służbę pilotową   ",
+      "na mieliźnie  ",
+      "nie odpowiadający za swoje ruchy  "
+    ],
+    "answer": 1
+  },
+  {
+    "id": 225,
+    "question": "Członek załogi nie umiejący pływać przebywający na pokładzie z acumowanego w porcie jachtu \npowinien:",
+    "image": null,
+    "options": [
+      "mieć założoną kamizelkę ratunkową   ",
+      "mieć założoną kamizelkę rekreacyjną  ",
+      "mieć założone na sobie koło ratunkowe   ",
+      "mieć kamizelkę ratunkową w zasięgu ręki, ale nie musi mieć na sobie  "
+    ],
+    "answer": 1
+  },
+  {
+    "id": 226,
+    "question": "Czy przepisy zezwalają na cumowanie ja chtów do drzew:",
+    "image": null,
+    "options": [
+      "tak, nie zabraniają tego   ",
+      "nie – to jest zabronione  ",
+      "przepisy tego nie regulują   ",
+      "można do drzew, których grubość pnia przekracza 50cm.  "
+    ],
+    "answer": 2
+  },
+  {
+    "id": 227,
+    "question": "Budowa napędu strugowodnego charakteryzuje się:",
+    "image": null,
+    "options": [
+      "listwą konstrukcyjną zwaną strugą   ",
+      "poprzeczną wręgą posz ycia powodującą wejście jachtu w ślizg  ",
+      "turbiną umieszczoną w tunelu w kadłubie powodującą wyrzut wody  ",
+      "wzdłużnym wcięciem dna kadłuba  "
+    ],
+    "answer": 3
+  },
+  {
+    "id": 228,
+    "question": "W silnikach dwusuwowych cykl pracy składa się z:",
+    "image": null,
+    "options": [
+      "suwu ssania, sprężania, pracy i wydechu   ",
+      "suwu sprężania i suwu pracy  ",
+      "suwu dolotu i suwu wylotu   ",
+      "suwu ssania i wydechu  "
+    ],
+    "answer": 2
+  },
+  {
+    "id": 229,
+    "question": "Płynąc na zachód jacht napotkał na swojej drodze tykę posiadającą znak szczytowy w postaci \ndwóch czarnych stożków z wierzchołkami skierowanymi w dół, którą burtą powinien ją ominąć:",
+    "image": null,
+    "options": [
+      "prawą   ",
+      "lewą  ",
+      "to zależy od u stalonego kierunku szlaku   ",
+      "nie ma to znaczenia  "
+    ],
+    "answer": 1
+  },
+  {
+    "id": 230,
+    "question": "Płynąc na południe jacht napotkał na swojej drodze tykę posiadającą znak szczytowy w postaci \ndwóch czarnych stożków z wierzchołkami skierowanymi do siebie, którą burtą powinien ją ominąć:",
+    "image": null,
+    "options": [
+      "prawą   ",
+      "lewą  ",
+      "to zale ży od ustalonego kierunku szlaku   ",
+      "dowolną burtą  ",
+      "regulacji poziomu wody w zbiornikach retencyjnych   ",
+      "zapewnieniu połączenia między zbiornikami o różnym poziomie wody  ",
+      "spiętrzania wody   ",
+      "ochrony przeciwpowodziowej  "
+    ],
+    "answer": 2
+  },
+  {
+    "id": 232,
+    "question": "Płyniesz rzeką pod prąd, którą burtą powinieneś minąć tykę z wiechą:",
+    "image": null,
+    "options": [
+      "prawą   ",
+      "lewą   ",
+      "dowolną burtą   ",
+      "zależy od prędkości nurtu  "
+    ],
+    "answer": 2
+  },
+  {
+    "id": 233,
+    "question": "Wiatr o sile 13 węzłów, ile to stopni w skali Beauforta:",
+    "image": null,
+    "options": [
+      "2  ",
+      "3 ",
+      "4  ",
+      "5 "
+    ],
+    "answer": 3
+  },
+  {
+    "id": 234,
+    "question": "Jakiej chmurze towarzyszy kołnierz burzowy:",
+    "image": null,
+    "options": [
+      "nimbostratus   ",
+      "cumulonimbus  ",
+      "cirrus   ",
+      "stratus  "
+    ],
+    "answer": 2
+  },
+  {
+    "id": 235,
+    "question": "Powierzchnia lądu nagrzewa się w innym tempie niż powierzchnia wody, z tego powodu nad wodą  \nw ciągu dnia będzie tworzyć się:",
+    "image": null,
+    "options": [
+      "lokalny niż  ",
+      "lokalny wyż   ",
+      "różnica ciśnień  ",
+      "tornado   "
+    ],
+    "answer": 2
+  },
+  {
+    "id": 236,
+    "question": "Ciśnienie atmosferyczne to:",
+    "image": null,
+    "options": [
+      "ciężar słupa powie trza przypadający na jednostkę powierzchni   ",
+      "wysokość słupa powietrza przypadająca na jednost kę powierzchni  ",
+      "ilość cząsteczek powietrza przypadająca na 1m3 ",
+      "stosu nek temperatury do wilgotności powietrza  "
+    ],
+    "answer": 1
+  },
+  {
+    "id": 237,
+    "question": "Z kompasu można odczytać:",
+    "image": null,
+    "options": [
+      "kurs jakim płynie jacht   ",
+      "zafalowanie akwenu  ",
+      "wartość I kierunek prądów pływowych   ",
+      "temperaturę powietrza  "
+    ],
+    "answer": 1
+  },
+  {
+    "id": 238,
+    "question": "GPS pokazuje:",
+    "image": null,
+    "options": [
+      "współrzędne geo graficzne pozycji jachtu   ",
+      "głębokość  ",
+      "kierunek i siłę wiatru   ",
+      "najbliższe porty  "
+    ],
+    "answer": 1
+  },
+  {
+    "id": 239,
+    "question": "Stalowe liny rozpięte wzdłuż burt jachtu to:",
+    "image": null,
+    "options": [
+      "waterwajsy   ",
+      "sztormrelingi  ",
+      "falszburty   ",
+      "knagi  ",
+      "230 V   ",
+      "24V ",
+      "12 V   ",
+      "18 V  "
+    ],
+    "answer": 2
+  },
+  {
+    "id": 241,
+    "question": "Rumpel służy do:",
+    "image": null,
+    "options": [
+      "awaryjnego wyłączenia silnika   ",
+      "sterowania  ",
+      "zmiany biegów   ",
+      "wciągania kotwicy  "
+    ],
+    "answer": 2
+  },
+  {
+    "id": 242,
+    "question": "Po ułożeniu osoby nieprzytomnej w pozycji bocznej ust alonej, po jakim czasie ułożysz ją na drugim \nboku:",
+    "image": null,
+    "options": [
+      "po ok. 1 godzinie  ",
+      "po ok. 2 godzinach   ",
+      "po ok. 3 godzinach  ",
+      "po ok. 4 godzinach  "
+    ],
+    "answer": 1
+  },
+  {
+    "id": 243,
+    "question": "Przywróciłeś ratowanemu krążenie i oddychanie, ale nadal jest nieprzytomny, w oczekiwaniu na \nsłużby medyczne:",
+    "image": null,
+    "options": [
+      "ułożysz go w poz ycji bezpiecznej   ",
+      "położysz go na wznak  ",
+      "ułożysz w pozycji półsiedzącej   ",
+      "będziesz kontynuował RKO    "
+    ],
+    "answer": 1
+  },
+  {
+    "id": 244,
+    "question": "W miarę obniżania się temperatury wody  \nczas przeżycia człowieka w wodzie:",
+    "image": null,
+    "options": [
+      "maleje   ",
+      "wydłuża się  ",
+      "pozostaje bez zmian   ",
+      "zależy od osoby, dla jednych się wydłuża,  dla innych maleje  "
+    ],
+    "answer": 1
+  },
+  {
+    "id": 245,
+    "question": "Słyszysz we mgle nieprzerwane bicie w dzwon przez około 5 sekund, w odstępach ok. 1 min. \nOznacza to statek:",
+    "image": null,
+    "options": [
+      "na mieliźnie  ",
+      "na kotwicy   ",
+      "holowany  ",
+      "prom na uwięzi  "
+    ],
+    "answer": 2
+  },
+  {
+    "id": 246,
+    "question": "Trymowanie silnika to inaczej:",
+    "image": null,
+    "options": [
+      "konserwacja i oczyszczanie go z zanieczyszcze ń ",
+      "wymiana oleju w przekładni   ",
+      "ustawienie go pod odpowiednim kątem do kadłuba jachtu  ",
+      "przekonstruowanie silnika samochodowego do instalacji w jachcie motorowym  "
+    ],
+    "answer": 3
+  },
+  {
+    "id": 247,
+    "question": "Płyniesz rzeką z prądem, którą burtą powinieneś minąć tykę:",
+    "image": null,
+    "options": [
+      "lewą  ",
+      "prawą   ",
+      "dowolną  ",
+      "tyka oznacza zak az pływania na danym odcinku  ",
+      "miejscowości Pisz  ",
+      "miejscowości Węgorzewo   ",
+      "miejscowości Giżycko  ",
+      "miejscowości Mikołajki  "
+    ],
+    "answer": 1
+  },
+  {
+    "id": 249,
+    "question": "Chmury piętra średniego:",
+    "image": null,
+    "options": [
+      "altostratus,  altocumulus  ",
+      "stratus, nimbostratus   ",
+      "stratocumulus, stratus  ",
+      "cirrus, cirrostratus  "
+    ],
+    "answer": 1
+  },
+  {
+    "id": 250,
+    "question": "Chmury piętra wysokiego:",
+    "image": null,
+    "options": [
+      "altostratus, altocumulus  ",
+      "stratus, nimbostratus   ",
+      "stratocumulus, stratus  ",
+      "cirrus, cirrostratus, cirrocumulus  "
+    ],
+    "answer": 4
+  },
+  {
+    "id": 251,
+    "question": "Produktami kondensacji pary wodnej mogą by ć:",
+    "image": null,
+    "options": [
+      "chmury, opady, mgły  ",
+      "fale, wyładowania atmosferyczne   ",
+      "deszcz, śnieg, wiatr  ",
+      "pływy morskie    "
+    ],
+    "answer": 1
+  },
+  {
+    "id": 252,
+    "question": "Celowe wejście na mieliznę brzegową w celu  \nratowania życia załogi:",
+    "image": null,
+    "options": [
+      "sztauowanie   ",
+      "sztrandowanie  ",
+      "sztormowanie   ",
+      "szanta  "
+    ],
+    "answer": 2
+  },
+  {
+    "id": 253,
+    "question": "Co zrobisz z przeterminowanymi środkami piro technicznymi:",
+    "image": null,
+    "options": [
+      "wyrzucisz w porcie do pojemnika na śmieci   ",
+      "musisz oddać do kasacji  ",
+      "możesz używać na lądzie   ",
+      "jeżeli opakowania nie są uszkodzone możesz je trzymać wciąż na jachcie  "
+    ],
+    "answer": 2
+  },
+  {
+    "id": 254,
+    "question": "Człowiek w wodzie o temperaturze 10 oC może przeżyć:",
+    "image": null,
+    "options": [
+      "2-3 godziny   ",
+      "5 godzin  ",
+      "10 godzin   ",
+      "48 godzin  "
+    ],
+    "answer": 1
+  },
+  {
+    "id": 255,
+    "question": "Osobę wyjętą po dłuższym czasie z zimnej wody rozgrzewamy:",
+    "image": null,
+    "options": [
+      "rozcierając jej dłonie i stopy oraz podając 25g czystego alkoholu   ",
+      "nakazując jej szybko się poruszać   ",
+      "przebierając ją w suche ubrania i podając ciepłą, słodką herbatę – jeśli osoba jest przytomna  ",
+      "należy ją pozostawić w mokrych ubraniach i poczekać, aż wyschną samoistnie  "
+    ],
+    "answer": 3
+  },
+  {
+    "id": 256,
+    "question": "Co oznacza „jeden krótki sygnał”?",
+    "image": null,
+    "options": [
+      "zmieniam kurs w lewo  ",
+      "zmieniam kurs w prawo  ",
+      "moje maszyny pracują wstecz  ",
+      "żadna odpowiedź nie jest prawidłowa  ",
+      "Wyprzedzam Was po prawej burcie  ",
+      "Człowiek za burtą  ",
+      "Nie mogę manewrować  ",
+      "Zmieniam kurs w lewo  "
+    ],
+    "answer": 2
+  },
+  {
+    "id": 258,
+    "question": "Seria podwójnych krótkich dźwięków oznacza?",
+    "image": null,
+    "options": [
+      "Człowiek za burtą  ",
+      "Jacht stojący na kotwicy  ",
+      "Zmieniam kurs w prawo  ",
+      "Sygnał wzywania pomocy  "
+    ],
+    "answer": 1
+  },
+  {
+    "id": 259,
+    "question": "Jeden krótki dźwięk trwa?",
+    "image": null,
+    "options": [
+      "Około 1 sekundy  ",
+      "Około 2 sekundy  ",
+      "Około 3 sekundy  ",
+      "Około 4 sekundy  "
+    ],
+    "answer": 1
+  },
+  {
+    "id": 260,
+    "question": "Lewe światło burtowe ma kolor:",
+    "image": null,
+    "options": [
+      "Czerwony  ",
+      "Zielony  ",
+      "Białe  ",
+      "Żadna z odpowiedzi nie jest poprawna  "
+    ],
+    "answer": 1
+  },
+  {
+    "id": 261,
+    "question": "Sektor świecenia światła burtowego wynosi :",
+    "image": null,
+    "options": [
+      "112,5°  ",
+      "135°  ",
+      "225° ",
+      "360°  "
+    ],
+    "answer": 1
+  },
+  {
+    "id": 262,
+    "question": "Sektor świecenia światła rufowego wynosi:",
+    "image": null,
+    "options": [
+      "112,5°  ",
+      "135°  ",
+      "225°  ",
+      "360°  "
+    ],
+    "answer": 2
+  },
+  {
+    "id": 263,
+    "question": "Osoba bez uprawnień może prowadzić jacht motorowy:",
+    "image": null,
+    "options": [
+      "do 5kW  ",
+      "do 10kW  ",
+      "do 15kW  ",
+      "do 12m długości jednostki  "
+    ],
+    "answer": 2
+  },
+  {
+    "id": 264,
+    "question": "Dwa jachty motorowe płynące kursami przecinającymi się, pierwszeństwo ma jacht:",
+    "image": null,
+    "options": [
+      "Znajdujący się z prawej strony drugiego  ",
+      "Znajdujący się z lewej strony drugiego  ",
+      "Jacht szybszy  ",
+      "Jacht wolniejszy  "
+    ],
+    "answer": 1
+  },
+  {
+    "id": 265,
+    "question": "Żółta kula na statku oznacza statek:",
+    "image": null,
+    "options": [
+      "Prom na uwięzi  ",
+      "Statek holowany  ",
+      "Statek na kotwicy  ",
+      "Statek na mieliźnie  ",
+      "Dwa czerwone światła jedno nad drugim widoczne dookoła widnokręgu  ",
+      "Trzy czerwone światła w pionie widoczne dookoła widnokręgu  ",
+      "Jedno światło czerwone widoczne dookoła widnokręgu  ",
+      "Żadna odpowiedź nie jest prawidłowa  "
+    ],
+    "answer": 2
+  },
+  {
+    "id": 267,
+    "question": "Statek który utr acił manewrowość pokazuje w dzień dodatkowo:",
+    "image": null,
+    "options": [
+      "Dwie czarne kule  ",
+      "Trzy czarne kule  ",
+      "Jedną kulę  ",
+      "Żadna odpowiedź nie jest prawidłowa  "
+    ],
+    "answer": 1
+  },
+  {
+    "id": 268,
+    "question": "Widzisz w nocy na rzece statek pokazujący dwa światła, zielone nad białym, widoczne ze \nwszystkich stron, jest to:",
+    "image": null,
+    "options": [
+      "Prom  ",
+      "Prom na uw ięzi ",
+      "Statek o napędzie mechanicznym  ",
+      "Jacht żaglowy do 8m  "
+    ],
+    "answer": 2
+  },
+  {
+    "id": 269,
+    "question": "Co oznacza następująca flaga:",
+    "image": null,
+    "options": [
+      "Mam pilota na pokładzie  ",
+      "Potrzebuje pomocy medycznej  ",
+      "Mam nurka pod wodą  ",
+      "Człowiek za butą  "
+    ],
+    "answer": 3
+  },
+  {
+    "id": 270,
+    "question": "Kamizelka ratunkowa jaką ma minimalną wyporność :",
+    "image": null,
+    "options": [
+      "100N  ",
+      "200N  ",
+      "300N  ",
+      "500N  "
+    ],
+    "answer": 1
+  },
+  {
+    "id": 271,
+    "question": "Co zwiast uje przejście frontu ciepłego?",
+    "image": null,
+    "options": [
+      "Gęste zachmurzenie, małe opady deszczu  ",
+      "Małe zachmurzenie, silny wiatr  ",
+      "Duże opady deszczu, słaby wiatr  ",
+      "Małe zachmurzenie, słaby wiatr  "
+    ],
+    "answer": 1
+  },
+  {
+    "id": 272,
+    "question": "Co zwiastuje przejście frontu chłodnego?",
+    "image": null,
+    "options": [
+      "Chmury burzowe, silny wiatr  ",
+      "Słaby wiatr, małe zach murzenie  ",
+      "Duże opady deszczu, słaby wiatr  ",
+      "Małe zachmurzenie, silny wiatr  "
+    ],
+    "answer": 1
+  },
+  {
+    "id": 273,
+    "question": "Jaki okres świecenia ma znak kardynalny wschodni (E)?",
+    "image": null,
+    "options": [
+      "Światło białe, szybko migające  ",
+      "Światło białe, trzy szybkie mignięcia  ",
+      "Światło białe, sześć szybkich mignieć plus jeden błys  ",
+      "Światł o białe, dziewięć szybkich mignięć  "
+    ],
+    "answer": 2
+  },
+  {
+    "id": 274,
+    "question": "Jaki okres świecenia ma znak kardynalny zachodni (W)?",
+    "image": null,
+    "options": [
+      "Światło białe, szybko migające  ",
+      "Światło białe, trzy szybkie mignięcia  ",
+      "Światło białe, sześć szybkich mignieć plus jeden błys  ",
+      "Światło białe, dziewięć szybkich mignięć  ",
+      "Front Zokludowany  ",
+      "Front Ciepły  ",
+      "Front zimny  ",
+      "Wszystkie odpowiedzi są poprawne  "
+    ],
+    "answer": 4
+  },
+  {
+    "id": 276,
+    "question": "Jaki front jest pokazany na rysunku?",
+    "image": "img/q276.png",
+    "options": [
+      "Front Zokludowany  ",
+      "Front Ciepły  ",
+      "Front zimny  ",
+      "Wszystkie odpowiedzi są poprawne  "
+    ],
+    "answer": 3
+  },
+  {
+    "id": 277,
+    "question": "Jaki front jest pokazan y na rysunku?",
+    "image": null,
+    "options": [
+      "Front Zokludowany  ",
+      "Front Ciepły  ",
+      "Front zimny  ",
+      "Wszystkie odpowiedzi są poprawne  "
+    ],
+    "answer": 1
+  },
+  {
+    "id": 278,
+    "question": "Co to jest achterdeck?",
+    "image": null,
+    "options": [
+      "Pokład dziobowy  ",
+      "Pokład rufowy  ",
+      "Półpokład  ",
+      "Element steru  "
+    ],
+    "answer": 2
+  },
+  {
+    "id": 279,
+    "question": "Co to jest kluza?",
+    "image": null,
+    "options": [
+      "Inaczej bakista.  ",
+      "Otwór w burcie umożliwiający zmianę kierunku dział ania cum i szpringów.  ",
+      "Przyrząd umożliwiający skracanie cum i szpringów.  ",
+      "Żadna z odpowiedzi nie jest poprawna  "
+    ],
+    "answer": 2
+  },
+  {
+    "id": 280,
+    "question": "Po wywrotce jachtu należy w pierwszej kolejności :",
+    "image": null,
+    "options": [
+      "Upewnić się, że wszyscy członkowie załogi są na powierzchni.  ",
+      "Po wypoziomowaniu kadłuba rozdać ka mizelki ratunkowe.  ",
+      "Zrzucić żagle i postawić jacht.  ",
+      "Wezwać pomoc  "
+    ],
+    "answer": 1
+  },
+  {
+    "id": 281,
+    "question": "Szok termiczny spowodowany jest:",
+    "image": null,
+    "options": [
+      "Gwałtownym zwężeniem naczyń krwionośnych wywołanych różnicą temperatur  ",
+      "Powolnym wychłodzeniem organizmu  ",
+      "Szynka utratą ciepła  ",
+      "Żadna z odpowiedzi nie jest popra wna  "
+    ],
+    "answer": 1
+  },
+  {
+    "id": 282,
+    "question": "Gasząc płomień na palniku kuchenki gazowej na jachcie wykonujemy następujące czynności:",
+    "image": null,
+    "options": [
+      "Zakręcamy zawór na butli, a następnie zakręcamy zawór palnika kuchenki  ",
+      "Zakręcamy zawór palnika kuchenki, a następnie zawór na butli  ",
+      "Nie ma to znaczenia który zawór  zakręcimy pierwszy  ",
+      "Żadna z odpowiedzi nie jest poprawna  "
+    ],
+    "answer": 1
+  },
+  {
+    "id": 283,
+    "question": "Co oznacza symbol meteo przedstawiony na rysunku?",
+    "image": "img/q283.png",
+    "options": [
+      "Wiatr o prędkości 3 węzłów  ",
+      "Wiatr o prędkości 35węzłów  ",
+      "Wiatr o prędkości 4 węzłów  ",
+      "Żadna z odpowiedzi nie jest poprawna  ",
+      "Układ wyżowy  ",
+      "Układ niżowy  ",
+      "Front ciepły  ",
+      "Front zimny  "
+    ],
+    "answer": 2
+  },
+  {
+    "id": 285,
+    "question": "Jaki układ baryczny jest przedstawiony na rysunku?",
+    "image": "img/q285.png",
+    "options": [
+      "Układ wyżowy  ",
+      "Układ niżowy  ",
+      "Front ciepły  ",
+      "Front zimny  "
+    ],
+    "answer": 2
+  },
+  {
+    "id": 286,
+    "question": "Kiedy zaczyna się stan hipotermii ?",
+    "image": null,
+    "options": [
+      "Gdy temperatura ciała wynosi 36,6 °C  ",
+      "Gdy temperatura ciała wynosi 30 °C  ",
+      "Gdy temperatura ciała wynosi 35 °C  ",
+      "Gdy temperatura ciała wynosi 31,6 °C  "
+    ],
+    "answer": 3
+  }
+]

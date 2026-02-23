@@ -1,1 +1,54 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+<meta charset="UTF-8">
+<title>Sternik Motorowodny – System Egzaminacyjny</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
 
+<div class="app">
+
+<header>
+<h1>🚤 Sternik Motorowodny</h1>
+<div id="userBox"></div>
+</header>
+
+<div id="startScreen" class="center">
+<input type="text" id="nick" placeholder="Podaj nick">
+<button onclick="init()">Start</button>
+</div>
+
+<div id="menu" class="center hidden">
+<button onclick="startLearning()">📚 Tryb nauki</button>
+<button onclick="startExam()">📝 Egzamin próbny</button>
+<button onclick="showStats()">📊 Statystyki</button>
+</div>
+
+<div id="examLayout" class="hidden">
+
+<div class="topBar">
+<div id="timer"></div>
+<div class="progressBar">
+<div id="progressFill"></div>
+</div>
+</div>
+
+<div class="main">
+<div class="sidebar" id="questionNav"></div>
+<div class="content" id="content"></div>
+</div>
+
+<div class="bottomBar">
+<button onclick="prevQuestion()">⬅</button>
+<button onclick="nextQuestion()">➡</button>
+<button onclick="finishExam()">Zakończ</button>
+</div>
+
+</div>
+
+</div>
+
+<script src="app.js"></script>
+</body>
+</html>

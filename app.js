@@ -28,7 +28,7 @@ async function loadQuestions() {
 const res = await fetch("questions.json");
 QUESTIONS = await res.json();
 
-// Normalizacja 1-based → 0-based
+// 🔥 NORMALIZACJA 1-based → 0-based
 QUESTIONS.forEach(q => {
 if (typeof q.answer === "number" && q.answer > 0) {
 q.answer = q.answer - 1;
@@ -66,7 +66,7 @@ startTimer();
 startMode();
 }
 
-// ================= WSPÓLNE =================
+// ================= START TRYBU =================
 
 function startMode() {
 document.getElementById("menu").classList.add("hidden");
@@ -74,6 +74,8 @@ document.getElementById("examLayout").classList.remove("hidden");
 buildSidebar();
 showQuestion();
 }
+
+// ================= SIDEBAR =================
 
 function buildSidebar() {
 let nav = "";
@@ -105,6 +107,8 @@ if(total === 0) return 0;
 return Math.round((progress[id].correct / total) * 100);
 }
 
+// ================= WYŚWIETLANIE PYTANIA =================
+
 function showQuestion() {
 const q = currentSet[currentIndex];
 
@@ -112,15 +116,26 @@ document.querySelectorAll(".sidebar div").forEach(e=>e.classList.remove("active"
 if(document.getElementById("nav"+currentIndex))
 document.getElementById("nav"+currentIndex).classList.add("active");
 
-let html = `<h3>Pytanie ${currentIndex+1}</h3><p>${q.question}</p>`;
+let html = `<h3>Pytanie ${currentIndex+1}</h3>`;
+html += `<p>${q.question}</p>`;
+
+// 🔥 OBSŁUGA OBRAZU PNG
+if (q.image && q.image.trim() !== "") {
+html += `
+<div style="margin:15px 0; text-align:center;">
+<img src="${q.image}" 
+style="max-width:100%; max-height:320px; border-radius:8px;">
+</div>
+`;
+}
 
 q.options.forEach((opt,i)=>{
 let checked = examAnswers[q.id]===i ? "checked":"";
 
 html += `
-<div>
-<input type="radio" name="ans" value="${i}" ${checked}
-onclick="handleAnswer(${i})"> ${opt}
+<div style="margin:8px 0;">
+<input type="radio" name="ans" value="${i}"
+onclick="handleAnswer(${i})" ${checked}> ${opt}
 </div>`;
 });
 
@@ -131,18 +146,19 @@ document.getElementById("content").innerHTML = html;
 if(mode === "exam") updateProgressBar();
 }
 
+// ================= OBSŁUGA ODPOWIEDZI =================
+
 function handleAnswer(selectedIndex) {
 const q = currentSet[currentIndex];
 
-// ===== TRYB EGZAMIN =====
+// ===== EGZAMIN =====
 if(mode === "exam") {
 examAnswers[q.id] = selectedIndex;
 updateProgressBar();
 return;
 }
 
-// ===== TRYB NAUKI =====
-
+// ===== NAUKA =====
 if (!progress[q.id]) progress[q.id] = { correct: 0, wrong: 0 };
 
 const allInputs = document.querySelectorAll('input[name="ans"]');

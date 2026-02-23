@@ -1,1 +1,103 @@
+body {
+margin:0;
+font-family:Arial;
+background:#f4f6f9;
+}
 
+.app {
+max-width:1200px;
+margin:auto;
+padding:20px;
+}
+
+header {
+display:flex;
+justify-content:space-between;
+align-items:center;
+}
+
+.center {
+text-align:center;
+margin-top:40px;
+}
+
+.hidden {
+display:none;
+}
+
+button {
+padding:10px 15px;
+margin:5px;
+cursor:pointer;
+border:none;
+background:#007bff;
+color:white;
+border-radius:6px;
+}
+
+button:hover {
+opacity:0.9;
+}
+
+.topBar {
+display:flex;
+justify-content:space-between;
+align-items:center;
+margin-bottom:10px;
+}
+
+.progressBar {
+width:70%;
+height:12px;
+background:#ddd;
+border-radius:6px;
+overflow:hidden;
+}
+
+#progressFill {
+height:100%;
+width:0%;
+background:#28a745;
+}
+
+.main {
+display:flex;
+gap:15px;
+}
+
+.sidebar {
+width:200px;
+background:white;
+padding:10px;
+overflow-y:auto;
+max-height:500px;
+border-radius:8px;
+}
+
+.sidebar div {
+padding:6px;
+margin:3px 0;
+cursor:pointer;
+border-radius:4px;
+}
+
+.sidebar div.active {
+background:#007bff;
+color:white;
+}
+
+.content {
+flex:1;
+background:white;
+padding:20px;
+border-radius:8px;
+}
+
+.correct { background:#d4edda; }
+.wrong { background:#f8d7da; }
+.unanswered { background:#eee; }
+
+.bottomBar {
+margin-top:10px;
+text-align:center;
+}
